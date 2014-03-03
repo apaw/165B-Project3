@@ -1,0 +1,5805 @@
+'$1,000,000 and'	1
+'$1,000; or'	1
+'$10,000,000 or'	1
+'$15,000,000, imprisoned'	1
+'$15,000,000.'	4
+'$2,000,000 or'	1
+'$2,500;'';'	2
+'$30,000,000.''.'	1
+'$5,000,000 or'	3
+'$5,000,000''.'	1
+'$5,000,000,'	1
+'$5,000,000.'	1
+'$500,000'' and'	1
+'&lt;all&gt;'	1
+'(1) Adulterated.--The'	1
+'(1) An'	1
+'(1) Appointments'	1
+'(1) Consistency.--Using'	1
+'(1) Dedicated'	1
+'(1) Director.--The'	1
+'(1) Domain'	1
+'(1) First'	1
+'(1) In'	8
+'(1) Nature'	1
+'(1) Payment'	1
+'(1) Policy.--The'	1
+'(1) Service'	1
+'(1) Service.--A'	1
+'(1) Subsection'	1
+'(1) are'	1
+'(1) by'	1
+'(1) in'	1
+'(1) is'	2
+'(1) occurring'	1
+'(1) or'	1
+'(1) provide'	1
+'(1) review,'	1
+'(1) shall'	1
+'(1) that'	2
+'(1) the'	2
+'(1) with'	1
+'(1)(B);'	1
+'(1), (3),'	1
+'(1), be'	1
+'(1), by'	2
+'(1), or'	2
+'(1), the'	4
+'(10) Intellectual'	1
+'(11) Internet.--The'	1
+'(12) Internet'	1
+'(13) Internet'	1
+'(14) Internet'	1
+'(15 U.S.C.'	6
+'(15) Internet'	1
+'(16) Internet'	1
+'(17) Internet'	1
+'(18) Lanham'	1
+'(19 U.S.C.'	1
+'(19'	1
+'(19) Nonauthoritative'	1
+'(2) Alterations.--The'	1
+'(2) Alterations.--Upon'	1
+'(2) An'	1
+'(2) Assignments'	1
+'(2) Dedication'	1
+'(2) Domain'	1
+'(2) In'	2
+'(2) Intellectual'	1
+'(2) Internet'	2
+'(2) Public'	1
+'(2) Qualifying'	1
+'(2) Reasonable'	2
+'(2) Regions'	1
+'(2) Relief.--Relief'	2
+'(2) Reports'	1
+'(2) Role'	1
+'(2) Subsection'	1
+'(2) Title'	1
+'(2) and'	2
+'(2) by'	1
+'(2) develop'	1
+'(2) in'	2
+'(2) the'	2
+'(2) to'	2
+'(2)'	1
+'(2)'' and'	1
+'(2)(A)(iv), an'	1
+'(2), a'	2
+'(2), against'	2
+'(2), in'	1
+'(2), or'	2
+'(2). Proof'	1
+'(2).'	2
+'(2);'	1
+'(20) Owner;'	1
+'(21 U.S.C.'	8
+'(21) Payment'	1
+'(22) Service'	1
+'(23) U.S.-directed'	1
+'(24) United'	1
+'(28 U.S.C.'	1
+'(3) An'	1
+'(3) Communication'	2
+'(3) Consideration.--In'	2
+'(3) Designated'	1
+'(3) Domestic'	1
+'(3) Duties.--The'	1
+'(3) Intellectual'	1
+'(3) Misbranded.--the'	1
+'(3) Notice.--Upon'	2
+'(3) in'	1
+'(3) publish'	1
+'(3) submit'	1
+'(3) the'	1
+'(3), (4),'	1
+'(3), by'	3
+'(3), the'	2
+'(4) An'	1
+'(4) Domestic'	1
+'(4) Enforcement'	2
+'(4) Intellectual'	1
+'(4) Intervention.--An'	2
+'(4) Notification'	1
+'(4) Prescription'	1
+'(4) Service'	2
+'(4) in'	1
+'(4) make'	1
+'(4) provide'	1
+'(4) subject'	1
+'(4) that'	1
+'(4), and'	1
+'(4), by'	2
+'(4), no'	2
+'(4), or'	1
+'(4), that'	1
+'(4), to'	1
+'(4),'	1
+'(4)--'	2
+'(4).'	1
+'(4); and'	1
+'(5) A'	1
+'(5) Counter'	1
+'(5) Domestic'	1
+'(5) Immunity.--'	2
+'(5) Relief.--On'	2
+'(5) USTR.--The'	1
+'(5) Valid'	1
+'(5) by'	1
+'(5) promulgate'	1
+'(5), a'	1
+'(5), an'	1
+'(5)--'	1
+'(6) Foreign'	1
+'(6) Misrepresentations.--Any'	1
+'(6) United'	1
+'(6), respectively,'	1
+'(7) Foreign'	1
+'(8) Foreign'	1
+'(9) Including.--The'	1
+'(A) Africa.'	1
+'(A) Immunity'	2
+'(A) In'	3
+'(A) Payment'	1
+'(A) Prescription'	1
+'(A) Requirements.--Subject'	2
+'(A) Rule'	1
+'(A) Service'	2
+'(A) a'	2
+'(A) after'	2
+'(A) aggressive'	1
+'(A) any'	3
+'(A) apply'	1
+'(A) by'	1
+'(A) in'	2
+'(A) intellectual'	1
+'(A) it'	1
+'(A) may'	2
+'(A) offering,'	1
+'(A) or'	2
+'(A) prevent'	1
+'(A) shall'	4
+'(A) shall,'	1
+'(A) that'	1
+'(A) the'	3
+'(A) to'	3
+'(A) whether'	1
+'(A)(i) may'	1
+'(A)(i) shall'	1
+'(A).'	1
+'(B) Directory'	1
+'(B) Drug.--The'	1
+'(B) Europe'	1
+'(B) Immunity'	2
+'(B) Internet'	2
+'(B) Procedures'	1
+'(B) Response.--An'	1
+'(B) Rule'	2
+'(B) Service'	2
+'(B) an'	3
+'(B) any'	3
+'(B) apply'	1
+'(B) cease'	1
+'(B) cooperation'	1
+'(B) either--'	1
+'(B) if--'	1
+'(B) in'	3
+'(B) may'	1
+'(B) of'	1
+'(B) offering,'	1
+'(B) that'	1
+'(B) the'	2
+'(B) there'	1
+'(B) to'	3
+'(B) whether'	1
+'(B)'	1
+'(B), a'	2
+'(B), that'	1
+'(C) Defense.--A'	1
+'(C) Defense.--An'	1
+'(C) East'	1
+'(C) Notice'	1
+'(C) Payment'	1
+'(C) Venue'	1
+'(C) an'	1
+'(C) any'	3
+'(C) apply'	1
+'(C) by'	1
+'(C) cease'	1
+'(C) consistency'	1
+'(C) in'	3
+'(C) the'	1
+'(D) Definition.--For'	1
+'(D) Internet'	1
+'(D) The'	1
+'(D) any'	3
+'(D) by'	1
+'(D) provide'	1
+'(D) support'	1
+'(E) South'	1
+'(E) provide'	1
+'(F) The'	1
+'(F) apply'	1
+'(G) ensure'	1
+'(H) ensure'	1
+'(I) a'	1
+'(I) actions'	2
+'(I) is'	1
+'(I) other'	1
+'(I) prevent'	2
+'(I) to'	1
+'(I) which'	2
+'(IH)]'	1
+'(II) a'	1
+'(II) act,'	2
+'(II) cease'	2
+'(II) operates'	1
+'(II) through'	2
+'(II) to'	2
+'(III) cease'	2
+'(III) the'	1
+'(III) to'	1
+'(a) Definition.--For'	1
+'(a) Definitions.--In'	1
+'(a) For'	1
+'(a) Guidelines.--The'	1
+'(a) Identification'	1
+'(a) Refusal'	1
+'(a) Resources'	1
+'(a) Savings'	1
+'(a) Short'	1
+'(a) Title'	1
+'(a) is'	1
+'(a) shall'	1
+'(a)'';'	1
+'(a)(1) and'	1
+'(a)(1) in'	1
+'(a)(1).'	3
+'(a), including'	1
+'(aa) has'	1
+'(and any'	1
+'(as such'	1
+'(as the'	2
+'(b) Action'	1
+'(b) Denying'	1
+'(b) For'	1
+'(b) Immunity'	1
+'(b) New'	1
+'(b) Report'	1
+'(b) Severability.--If'	1
+'(b) Study.--'	1
+'(b) Table'	1
+'(b) Title'	1
+'(b) is'	1
+'(b) may'	1
+'(b) or'	1
+'(b) that'	1
+'(b) using'	1
+'(b)(1), by'	1
+'(b)(1), or'	1
+'(b)(2),'	1
+'(b)(4) in'	1
+'(b)(4)--'	1
+'(b)(4); or'	1
+'(b)(5), or'	1
+'(b), a'	1
+'(b), and'	1
+'(b), or'	1
+'(b), the'	1
+'(bb) has'	1
+'(c) Actions'	1
+'(c) Definitions.--In'	1
+'(c) Limited'	1
+'(c) Priority'	1
+'(c) Rule'	1
+'(c) has'	1
+'(c) if'	1
+'(c) may'	1
+'(c) on'	1
+'(c) or'	2
+'(c) that'	2
+'(c), or'	2
+'(c)--'	1
+'(cc) has'	1
+'(commonly referred'	1
+'(d) Actions'	1
+'(d) Modification'	1
+'(d) Training.--The'	1
+'(d) if'	1
+'(d)(4), by'	1
+'(d), or'	1
+'(e) Amended'	1
+'(e) Coordination.--The'	1
+'(e) Modification'	1
+'(e) is'	1
+'(e), regarding'	1
+'(e).'	3
+'(f) Amended'	1
+'(f) Law'	1
+'(f) Training'	1
+'(f), that'	1
+'(f), with'	1
+'(f),'	1
+'(f)--'	1
+'(f).'	1
+'(for himself'	1
+'(g) Activities'	1
+'(g) Reporting'	1
+'(h) Reports'	1
+'(i) A'	2
+'(i) Definitions.--In'	1
+'(i) In'	1
+'(i) Preventing'	2
+'(i) Required'	2
+'(i) Show'	1
+'(i) The'	1
+'(i) against'	1
+'(i) and'	1
+'(i) any'	2
+'(i) at'	4
+'(i) if'	4
+'(i) such'	1
+'(i) the'	2
+'(i) to'	1
+'(i).'	2
+'(ii) Identification'	1
+'(ii) In'	1
+'(ii) Limitations.--A'	1
+'(ii) No'	4
+'(ii) Other'	1
+'(ii) Service'	1
+'(ii) access'	1
+'(ii) against'	1
+'(ii) any--'	2
+'(ii) if'	2
+'(ii) the'	2
+'(ii) to'	1
+'(ii) via'	2
+'(ii); and'	1
+'(iii) A'	1
+'(iii) Construction.--Nothing'	1
+'(iii) Identification'	1
+'(iii) delivery'	1
+'(iii) the'	1
+'(including expenses'	1
+'(including section'	1
+'(including'	1
+'(iv) Information'	1
+'(iv) Text'	1
+'(iv) The'	1
+'(j) Authorization'	1
+'(or portion'	2
+'(or'	1
+'(relating to'	1
+'(v) Information'	1
+'(vi) A'	1
+'(vii) A'	1
+'(viii) Identification'	1
+'1 or'	5
+'1. SHORT'	1
+'1. Short'	1
+'10 copies'	1
+'10 or'	1
+'10 public'	2
+'10 years,'	1
+'10'	1
+'101. DEFINITIONS.'	1
+'101. Definitions.'	1
+'102(c)(2), section'	1
+'102. ACTION'	1
+'102. Action'	1
+'103(b) with'	1
+'103(d)(2), or'	1
+'103. MARKET-BASED'	1
+'103. Market-based'	1
+'104. IMMUNITY'	1
+'104. Immunity'	1
+'105. IMMUNITY'	1
+'105. Immunity'	1
+'106 (relating'	1
+'106. GUIDELINES'	1
+'106. Guidelines'	1
+'107 through'	1
+'107. DENYING'	1
+'107. Denying'	1
+'1127) and'	1
+'112th CONGRESS'	1
+'112th Congress]'	1
+'1201 of'	3
+'122, of'	1
+'17 Amendments.--Section'	1
+'17 liability.--Nothing'	1
+'17, United'	7
+'17, total'	1
+'17,'	1
+'17;'	1
+'18 Amendments.--Section'	1
+'18, United'	7
+'18, if'	1
+'18,'	3
+'180 days'	1
+'180-day period,'	2
+'180-day'	3
+'182(a) of'	1
+'182(a)(1) of'	4
+'182(a)(1); and'	1
+'1831 of'	1
+'1831(a) of'	1
+'1831(b) of'	1
+'1946 (commonly'	1
+'1946'' or'	1
+'1974 (19'	2
+'1974,'	1
+'1974. The'	1
+'1974.'	1
+'1987 (28'	1
+'1st Amendment'	1
+'1st Session'	1
+'2 years'	1
+'2. SAVINGS'	1
+'2. Savings'	1
+'20 years,'	2
+'2008 (15'	4
+'201(g)(1) of'	1
+'201(g)(2) of'	1
+'201. STREAMING'	1
+'201. Streaming'	1
+'2011'	1
+'202. TRAFFICKING'	1
+'202. Trafficking'	1
+'203. PROTECTING'	1
+'203. Protecting'	1
+'204. AMENDMENTS'	1
+'204. Amendments'	1
+'205. DEFENDING'	1
+'205. Defending'	1
+'21(a) of'	1
+'2242(a)(1)) to'	1
+'2242(a)(1)); and'	1
+'2318, 2319,'	1
+'2319 of'	2
+'2319, 2319A,'	1
+'2319A, 2319B,'	1
+'2319B,'	1
+'2320 of'	1
+'2320'	1
+'2320(a) of'	4
+'2320, or'	1
+'2339D(c);'	1
+'24 hours'	1
+'26, 2011'	1
+'28, United'	1
+'2B5.3 of'	1
+'3 of'	1
+'3 times'	1
+'30 years,'	1
+'301 of'	3
+'301(i) of'	1
+'302 of'	1
+'309(e)(2)(A) of'	1
+'31, United'	1
+'314 of'	1
+'321(g)(1)).'	1
+'321(g)(2));'	1
+'3261 Introduced'	1
+'3261'	1
+'331(i));'	1
+'34(d) of'	1
+'351).'	1
+'352).'	1
+'353(b)).'	1
+'379g(4));'	1
+'4(f) of'	2
+'45 of'	1
+'5 days'	8
+'5, 1946'	1
+'501 of'	2
+'501 or'	2
+'502 of'	1
+'503(b) of'	1
+'506(a) of'	2
+'512 of'	1
+'512(k)(1) of'	1
+'5362(5) of'	1
+'6 months'	1
+'65 of'	2
+'7 days'	1
+'735(4) of'	1
+'8111)'	1
+'8111).'	2
+'8112).'	1
+'8114) on'	1
+'829(e)(2)(A)).'	1
+'90, of'	1
+'994 note),'	1
+'994(p) of'	1
+'</pre></body></html>'	1
+'<html><body><pre>'	1
+'A BILL'	1
+'A discussion'	1
+'A physical'	2
+'A statement'	3
+'ABROAD.'	1
+'ACTION AGAINST'	2
+'ACTION BY'	1
+'AGAINST SITES'	2
+'AMENDMENTS TO'	1
+'AND ECONOMIC'	1
+'AND PREVENT'	1
+'AND SEVERABILITY'	1
+'AND STUDY.'	1
+'AND'	1
+'ATTORNEY GENERAL'	1
+'Act (15'	2
+'Act (21'	8
+'Act had'	1
+'Act is'	1
+'Act may'	1
+'Act of'	11
+'Act or'	1
+'Act shall'	1
+'Act to'	1
+'Act'	1
+'Act'' means'	1
+'Act'').'	1
+'Act''.'	1
+'Act) or'	1
+'Act, or'	1
+'Act, pursuant'	1
+'Act, submit'	1
+'Act, the'	1
+'Action by'	2
+'Actions Based'	2
+'Activities in'	1
+'Adulterated.--The term'	1
+'Africa.'	1
+'Alterations.--The Attorney'	1
+'Alterations.--Upon the'	1
+'Amended Orders.--The'	2
+'Amendment to'	1
+'Amendments to'	1
+'Amendments.--Section 2319'	1
+'Amendments.--Section 506(a)'	1
+'America in'	1
+'An analysis'	3
+'An examination'	1
+'Appointments and'	1
+'Appointments.--'	1
+'Appropriations.--The Secretary'	1
+'Arkansas, Mr.'	1
+'Armed Force,'	1
+'Armed Forces'	1
+'Armed Forces;'	1
+'Armed'	1
+'Asia and'	2
+'Assignments to'	1
+'Assignments.--'	1
+'Assistance.--'	1
+'Attorney General'	13
+'Attorney General,'	1
+'Attorney General.'	1
+'Attorney General.--'	1
+'Attorney'	1
+'Authorization of'	1
+'BILL'	1
+'BUSINESSES FROM'	1
+'BY ATTORNEY'	1
+'Based on'	2
+'Be it'	1
+'Berman, Mr.'	1
+'Bills 112th'	1
+'Blackburn, Mrs.'	1
+'Bono Mack,'	1
+'CAPITAL TO'	1
+'CLAUSES.'	1
+'COMBAT INTELLECTUAL'	2
+'CONGRESS'	1
+'CONTENTS.'	1
+'COPYRIGHTED WORKS'	1
+'CRIMINAL LAW.'	1
+'CUSTOMERS AND'	2
+'Cases of'	1
+'Central Asia'	1
+'Chabot,'	1
+'Chairman of'	1
+'Civil Procedure,'	2
+'Civil Procedure.'	2
+'Clauses.--'	1
+'Code, as'	1
+'Code, including'	1
+'Code, is'	4
+'Code, that'	2
+'Code, the'	1
+'Code.'	2
+'Code; and'	2
+'Code; or'	4
+'Code;'	3
+'Commerce and'	1
+'Commerce shall'	3
+'Commerce'	1
+'Commerce, in'	3
+'Commerce, the'	1
+'Commission determines'	1
+'Commission shall--'	1
+'Commission's'	1
+'Commission, and'	1
+'Committed by'	2
+'Committee on'	1
+'Committees on'	2
+'Communication with'	2
+'Congress a'	1
+'Congress assembled,'	1
+'Congress.--The Intellectual'	2
+'Congress]'	1
+'Consideration.--In making'	2
+'Consistency.--Using existing'	1
+'Constitution of'	1
+'Constitution.'	1
+'Construction.--Any person'	1
+'Construction.--Nothing in'	1
+'Contents.--The table'	1
+'Control Protocol/'	1
+'Controlled Substances'	1
+'Conyers, Mr.'	1
+'Coordination.--'	1
+'Coordination.--The activities'	1
+'Coordinator and'	1
+'Coordinator appointed'	2
+'Coordinator of'	2
+'Coordinator shall'	2
+'Coordinator shall,'	1
+'Coordinator'' means'	2
+'Coordinator, in'	1
+'Coordinator. The'	2
+'Coordinator.'	1
+'Copyright Office,'	2
+'Copyrights considers'	1
+'Copyrights shall'	1
+'Copyrights'	1
+'Copyrights, and'	1
+'Copyrights, in'	1
+'Copyrights, shall'	1
+'Copyrights,'	1
+'Cosmetic Act'	7
+'Counselor.'	1
+'Counter Notification.--'	1
+'Counter notification.--'	1
+'Countries.--In the'	1
+'Court Orders.--'	2
+'Criminal Infringement.--'	1
+'Customs Enforcement,'	2
+'DANGEROUS GOODS'	1
+'DEDICATED TO'	1
+'DEDICATED'	1
+'DEFENDING INTELLECTUAL'	1
+'DEFINITIONS.'	1
+'DENYING U.S.'	1
+'Death.--If the'	1
+'Dedicated to'	2
+'Dedication of'	1
+'Defending intellectual'	1
+'Defense, an'	1
+'Defense.--A defendant'	1
+'Defense.--An entity'	1
+'Definition.--For purposes'	2
+'Definition.--In this'	1
+'Definitions.'	1
+'Definitions.--In this'	3
+'Denying U.S.'	2
+'Department of'	2
+'Departments of'	1
+'Depending on'	1
+'Deposit'	1
+'Designated agent.--'	1
+'Deutch, Mr.'	1
+'Director of'	2
+'Director shall'	1
+'Director'	1
+'Director, and'	1
+'Director.--The terms'	1
+'Directory of'	1
+'Domain name'	1
+'Domain name.--The'	1
+'Domestic domain'	1
+'Domestic internet'	2
+'Drug, and'	6
+'Drug,'	1
+'Drug.--The term'	1
+'Duties.--The intellectual'	1
+'ECONOMIC'	1
+'ENDANGER PUBLIC'	1
+'ENHANCEMENTS TO'	2
+'ESPIONAGE.'	1
+'Each intellectual'	1
+'East Asia'	1
+'East.'	1
+'Enforcement Coordination.--'	1
+'Enforcement Coordinator'	5
+'Enforcement Coordinator'''	2
+'Enforcement Coordinator,'	1
+'Enforcement Coordinator.'	3
+'Enforcement of'	2
+'Enforcement'	3
+'Enforcement, to'	2
+'Eurasia.'	1
+'Europe and'	1
+'Evidence of'	1
+'Evidence.--For purposes'	1
+'Exchange'	1
+'FOR TAKING'	2
+'FOREIGN AND'	1
+'FOREIGN INFRINGERS.'	1
+'FOREIGN INFRINGING'	1
+'FROM FOREIGN'	1
+'FUNDING OF'	1
+'Federal Deposit'	1
+'Federal Food'	3
+'Federal Food,'	4
+'Federal Rules'	4
+'Federal Sentencing'	1
+'Federal departments'	1
+'Federal or'	4
+'Federal'	4
+'Federal, State,'	2
+'Financial Support'	1
+'First Secretary'	1
+'First amendment.--Nothing'	1
+'Florida, Mrs.'	1
+'Food Drug,'	2
+'Food'	1
+'Food, Drug,'	4
+'For Offenses'	2
+'Force, or'	1
+'Forces of'	1
+'Forces; or'	2
+'Foreign domain'	1
+'Foreign internet'	2
+'Foreign'	1
+'From Liability.--An'	1
+'GENERAL TO'	1
+'GOODS OR'	1
+'GUIDELINES AND'	1
+'GUIDELINES.'	1
+'Gallegly, Mr.'	1
+'General if'	1
+'General may'	1
+'General shall'	2
+'General shall,'	1
+'General shall--'	1
+'General to'	1
+'General under'	1
+'General'	5
+'General, if'	1
+'General, with'	1
+'General.'	1
+'General.--'	1
+'Goodlatte, Mr.'	1
+'Government Printing'	1
+'Government in'	1
+'Government relating'	1
+'Government should'	1
+'Government. Those'	1
+'Griffin of'	1
+'Guideline provisions'	1
+'Guidelines (and'	1
+'Guidelines and'	5
+'Guidelines as'	1
+'Guidelines relating'	1
+'Guidelines, policy'	1
+'Guidelines.--The Attorney'	1
+'H. R.'	1
+'HEALTH.'	1
+'HOUSE OF'	1
+'Hemisphere.'	1
+'House (IH)]'	1
+'House of'	3
+'I shall'	1
+'I--COMBATING ONLINE'	2
+'II--ADDITIONAL ENHANCEMENTS'	2
+'IMMUNITY FOR'	2
+'IN INHERENTLY'	1
+'IN THE'	1
+'IN VIOLATION'	1
+'INFRINGERS.'	1
+'INFRINGING SITES.'	1
+'INHERENTLY DANGEROUS'	1
+'INTELLECTUAL PROPERTY'	3
+'Identification and'	1
+'Identification of'	3
+'Immigration and'	2
+'Immunity From'	1
+'Immunity for'	2
+'Immunity from'	4
+'Immunity.--'	2
+'In general.--'	1
+'In general.--A'	2
+'In general.--Any'	1
+'In general.--At'	2
+'In general.--Each'	1
+'In general.--Subject'	1
+'In general.--The'	3
+'In general.--To'	1
+'In general.--Using'	1
+'In personam.--If'	1
+'In personam.--The'	1
+'In rem.--If'	2
+'In the'	1
+'In this'	1
+'Including.--The term'	1
+'Individual.--An individual'	2
+'Individuals.--Section 1831(a)'	1
+'Information reasonably'	2
+'Infringement.--'	1
+'Infringers.--'	1
+'Injunctive Relief'	1
+'Insurance Act)'	1
+'Intellectual Property'	16
+'Intellectual property'	4
+'Intellectual'	2
+'Internet Protocol'	17
+'Internet Protocol,'	1
+'Internet advertising'	16
+'Internet and'	1
+'Internet protocol'	5
+'Internet protocol.--The'	1
+'Internet relating'	1
+'Internet search'	5
+'Internet site'	43
+'Internet site,'	26
+'Internet site--'	2
+'Internet site.'	4
+'Internet site.--The'	1
+'Internet site;'	4
+'Internet that'	1
+'Internet to'	1
+'Internet'	16
+'Internet,'	1
+'Internet.--The term'	1
+'Intervention.--An entity'	2
+'Introduced in'	1
+'Judiciary of'	2
+'Judiciary'	1
+'July 5,'	1
+'LAW.'	1
+'Lanham Act'	2
+'Lanham act.--The'	1
+'Law Enforcement'	1
+'Liability.--An entity'	1
+'Limitations.--A service'	1
+'Limited Injunctive'	1
+'Locators,'	1
+'MARKET-BASED SYSTEM'	1
+'Mack, Mr.'	1
+'Market-based system'	1
+'Military goods'	1
+'Misbranded.--the term'	1
+'Misrepresentations.--Any provider'	1
+'Modification or'	2
+'Mr. Chabot,'	1
+'Mr. Conyers,'	1
+'Mr. Deutch,'	1
+'Mr. Gallegly,'	1
+'Mr. Goodlatte,'	1
+'Mr. Griffin'	1
+'Mr. Ross'	1
+'Mr. Smith'	1
+'Mr. Terry,'	1
+'Mr.'	2
+'Mrs. Blackburn,'	1
+'Mrs. Bono'	1
+'NOTORIOUS FOREIGN'	1
+'Nature of'	1
+'Near East.'	1
+'New Appointments.--'	1
+'No cause'	1
+'No duty'	4
+'Nonauthoritative domain'	1
+'Not later'	1
+'Nothing in'	1
+'Notice to'	1
+'Notice.--Upon commencing'	2
+'Notification regarding'	1
+'Notification.--'	1
+'Notorious Foreign'	1
+'OF CONTENTS.'	1
+'OF COPYRIGHTED'	1
+'OF CRIMINAL'	1
+'OF FOREIGN'	1
+'OF REPRESENTATIVES'	1
+'OF SITES'	1
+'OF U.S.'	2
+'ONLINE PIRACY'	2
+'OR SERVICES.'	1
+'October 26,'	1
+'Offenses Committed'	2
+'Offenses.--Whoever--'	1
+'Office shall'	1
+'Office'' and'	1
+'Office, substantially'	1
+'Office, to'	1
+'Office.'	1
+'Office]'	1
+'Online Piracy'	1
+'Orders.--'	5
+'Orders.--The Attorney'	1
+'Orders.--The qualifying'	1
+'Organization for'	4
+'Organizations.--Section 1831(b)'	1
+'Other Countries.--In'	1
+'Other contact'	1
+'Owner; operator.--The'	1
+'PIRACY'	2
+'PREVENT U.S.'	1
+'PREVENT'	1
+'PROPERTY RIGHTS'	1
+'PROPERTY THEFT'	2
+'PROPERTY.'	2
+'PROTECT U.S.'	2
+'PROTECTING U.S.'	1
+'PUBLIC HEALTH.'	1
+'Pacific.'	2
+'Patent and'	3
+'Payment network'	4
+'Penalties.--'	1
+'Person other'	2
+'Piracy'	1
+'Policy.--The Secretary'	1
+'Prescription medication.--'	1
+'Prescription medication.--The'	1
+'Preventing affiliation.--A'	2
+'Printing Office]'	1
+'Prioritizing Resources'	4
+'Priority Assignments.--'	1
+'Procedure, against'	2
+'Procedure.'	2
+'Procedures and'	1
+'Proof of'	2
+'Property Act'	4
+'Property Enforcement'	14
+'Property Rights.--'	1
+'Property and'	1
+'Property.--'	1
+'Protect Intellectual'	1
+'Protecting U.S.'	1
+'Protocol address'	5
+'Protocol address'''	3
+'Protocol address,'	4
+'Protocol address.'	3
+'Protocol addresses'	1
+'Protocol allocation'	2
+'Protocol for'	1
+'Protocol'	2
+'Protocol'''	1
+'Protocol, and'	1
+'Protocol/'	1
+'Public input.--In'	1
+'Qualifying plaintiff.--The'	1
+'R. 3261'	1
+'REPRESENTATIVES'	1
+'RIGHTS ABROAD.'	1
+'Reasonable measures.--After'	2
+'Recommendations Regarding'	1
+'Refusal of'	1
+'Regarding Notorious'	1
+'Regions defined.--The'	1
+'Register may'	1
+'Register of'	7
+'Relief in'	1
+'Relief.--On application'	2
+'Relief.--Relief under'	2
+'Report to'	1
+'Reporting of'	1
+'Reports to'	2
+'Representative, the'	1
+'Representative.'	1
+'Representatives and'	2
+'Representatives of'	1
+'Required actions.--An'	2
+'Requirements.--Subject to'	2
+'Resource Locators,'	1
+'Resources To'	1
+'Resources and'	4
+'Response.--An entity'	1
+'Retail Value.--For'	1
+'Rights.--'	1
+'Role of'	1
+'Ross of'	1
+'Rule of'	4
+'Rules of'	4
+'SAVINGS AND'	1
+'SEC. 101.'	1
+'SEC. 102.'	1
+'SEC. 103.'	1
+'SEC. 104.'	1
+'SEC. 105.'	1
+'SEC. 106.'	1
+'SEC. 107.'	1
+'SEC. 2.'	1
+'SEC. 201.'	1
+'SEC. 202.'	1
+'SEC. 203.'	1
+'SEC. 204.'	1
+'SEC. 205.'	1
+'SECTION 1.'	1
+'SENTENCING GUIDELINES.'	1
+'SERVICES.'	1
+'SEVERABILITY CLAUSES.'	1
+'SHORT TITLE;'	1
+'SITES DEDICATED'	2
+'SITES THAT'	1
+'SITES.'	1
+'STREAMING OF'	1
+'STUDY.'	1
+'SUPPORT OF'	1
+'SYSTEM TO'	1
+'Savings Clauses.--'	1
+'Savings and'	1
+'Schiff) introduced'	1
+'Sec. 1.'	1
+'Sec. 101.'	1
+'Sec. 102.'	1
+'Sec. 103.'	1
+'Sec. 104.'	1
+'Sec. 105.'	1
+'Sec. 106.'	1
+'Sec. 107.'	1
+'Sec. 2.'	1
+'Sec. 201.'	1
+'Sec. 202.'	1
+'Sec. 203.'	1
+'Sec. 204.'	1
+'Sec. 205.'	1
+'Secretaries of'	1
+'Secretary of'	14
+'Secretary or'	1
+'Secretary'	2
+'Section 2320'	1
+'Securities and'	1
+'Senate a'	2
+'Senate and'	1
+'Sentencing Act'	1
+'Sentencing Commission'	1
+'Sentencing Guidelines'	2
+'Sentencing'	1
+'Serious bodily'	2
+'Service and'	1
+'Service by'	1
+'Service if'	2
+'Service of'	3
+'Service provider.--The'	1
+'Service providers.--'	1
+'Service.--A process'	1
+'Service.--A service'	1
+'Session'	1
+'Severability.--If any'	1
+'Short Title.--This'	1
+'Short title;'	1
+'Show cause'	1
+'Sites Dedicated'	1
+'Smith of'	1
+'South and'	1
+'State and'	8
+'State court'	3
+'State law'	1
+'State, or'	2
+'State. Depending'	1
+'State. The'	1
+'States Code,'	6
+'States Code.'	2
+'States Code;'	8
+'States Government'	3
+'States Sentencing'	1
+'States Trade'	2
+'States and'	6
+'States by'	2
+'States embassies'	1
+'States embassy'	3
+'States for'	1
+'States foreign'	1
+'States from'	1
+'States holders'	1
+'States in'	1
+'States intellectual'	1
+'States market,'	1
+'States of'	1
+'States or'	4
+'States persons'	3
+'States resident'	1
+'States to'	2
+'States'	11
+'States'' includes'	1
+'States, and'	1
+'States, based'	1
+'States, or'	1
+'States, the'	2
+'States,'	1
+'States.'	8
+'States; and'	3
+'States;'	4
+'Streaming of'	1
+'Study.--'	1
+'Subsection (a)'	1
+'Subsection (e)'	1
+'Subsequent offenses.--'	1
+'Subsequent offenses.--In'	1
+'Substances Act'	1
+'Such actions'	1
+'Such person'	1
+'Such showing'	1
+'Such text'	1
+'Such'	1
+'Support of'	1
+'TABLE OF'	1
+'TAKING VOLUNTARY'	2
+'THAT'	1
+'THE HOUSE'	1
+'THEFT OF'	2
+'THEFT'	2
+'TITLE I--COMBATING'	2
+'TITLE II--ADDITIONAL'	2
+'TITLE; TABLE'	1
+'TO COMBAT'	2
+'TO NOTORIOUS'	1
+'TO PROTECT'	2
+'TO SENTENCING'	1
+'TO THEFT'	2
+'TRAFFICKING IN'	1
+'Table of'	1
+'Technical Assistance.--'	1
+'Terry, and'	1
+'Texas (for'	1
+'Text of'	1
+'The Director'	3
+'The Near'	1
+'The Western'	1
+'The intellectual'	1
+'The name,'	2
+'Theft of'	1
+'Those policy'	1
+'Title 17'	2
+'Title 18'	1
+'Title.--This Act'	1
+'To Protect'	1
+'To promote'	2
+'Total Retail'	1
+'Trade Act'	5
+'Trade'	2
+'Trademark Office'''	1
+'Trademark Office.'	1
+'Trademark'	1
+'Trafficking in'	1
+'Training and'	1
+'Training.--The Secretary'	1
+'Transmission Control'	1
+'Treasury and'	1
+'U.S. BUSINESSES'	1
+'U.S. CAPITAL'	1
+'U.S. CUSTOMERS'	2
+'U.S. FUNDING'	1
+'U.S. Financial'	1
+'U.S. Government'	1
+'U.S. PROPERTY.'	1
+'U.S. Property.--'	1
+'U.S. SUPPORT'	1
+'U.S. businesses'	1
+'U.S. capital'	1
+'U.S. customers'	2
+'U.S. funding'	1
+'U.S. property'	4
+'U.S. property'''	1
+'U.S. property,'	5
+'U.S. property.'	3
+'U.S. property;'	2
+'U.S. support'	1
+'U.S.'	8
+'U.S.-directed site'	3
+'U.S.-directed site.'	1
+'U.S.-directed site.--The'	1
+'U.S.-directed'	3
+'U.S.C. 2242(a)(1))'	1
+'U.S.C. 2242(a)(1));'	1
+'U.S.C. 321(g)(1)).'	1
+'U.S.C. 321(g)(2));'	1
+'U.S.C. 331(i));'	1
+'U.S.C. 351).'	1
+'U.S.C. 352).'	1
+'U.S.C. 353(b)).'	1
+'U.S.C. 379g(4));'	1
+'U.S.C. 8111)'	1
+'U.S.C. 8114)'	1
+'U.S.C. 829(e)(2)(A)).'	1
+'U.S.C. 994'	1
+'U.S.C.'	4
+'USTR under'	2
+'USTR's reports'	1
+'USTR.--The term'	1
+'Under Secretary'	1
+'Uniform Resource'	1
+'United States'	56
+'United States,'	5
+'United States.'	7
+'United States;'	6
+'United states'	1
+'United states.--The'	1
+'United'	8
+'Untied States'	1
+'VIOLATION OF'	1
+'VOLUNTARY ACTION'	2
+'Vacation of'	2
+'Valid prescription.--The'	1
+'Value.--For purposes'	1
+'Venue for'	1
+'WORKS IN'	1
+'Web site'	1
+'Web'	1
+'Western Hemisphere.'	1
+'[Congressional Bills'	1
+'[From the'	1
+'[H.R. 3261'	1
+'_______________________________________________________________________'	2
+'``$10,000,000'' and'	1
+'``(1) In'	2
+'``(1) the'	1
+'``(10) the'	1
+'``(11) the'	1
+'``(2) Evidence.--For'	1
+'``(2) Serious'	1
+'``(2) the'	2
+'``(3) Definition.--In'	1
+'``(3) Military'	1
+'``(3) the'	1
+'``(5) the'	1
+'``(6) the'	1
+'``(7) the'	1
+'``(8) the'	1
+'``(9) the'	1
+'``(A) Federal,'	1
+'``(A) In'	1
+'``(A) Offenses.--Whoever--'	1
+'``(A) Serious'	1
+'``(A) a'	1
+'``(A) during'	1
+'``(A) for'	1
+'``(AA) of'	1
+'``(B) Death.--If'	1
+'``(B) Penalties.--'	1
+'``(B) Subsequent'	1
+'``(B) a'	1
+'``(B) an'	1
+'``(B) by'	2
+'``(BB) of'	1
+'``(C) Subsequent'	1
+'``(C) by'	1
+'``(I) serious'	1
+'``(II) disclosure'	1
+'``(II) has'	1
+'``(II) the'	2
+'``(III) impairment'	1
+'``(IV) other'	1
+'``(a) Criminal'	1
+'``(aa) to'	1
+'``(bb) to'	1
+'``(g) Evidence'	1
+'``(i) Individual.--An'	2
+'``(i) combat'	1
+'``(i) intentionally'	1
+'``(i) the'	1
+'``(i)(I) has'	1
+'``(i)(I) the'	1
+'``(ii) Person'	2
+'``(ii) critical'	1
+'``(ii) had'	1
+'``(ii) intentionally'	1
+'``(ii) the'	1
+'``(ii)(I) the'	1
+'``(iii) intentionally'	1
+'``15 years'''	1
+'``20 years'';'	1
+'``; and'''	1
+'``An Act'	1
+'``Director of'	1
+'``Director'' mean'	1
+'``Intellectual Property'	2
+'``Internet Protocol'	1
+'``Internet Protocol'''	1
+'``Internet search'	1
+'``Internet site'	1
+'``Internet site'''	1
+'``Internet'	3
+'``Internet'' has'	1
+'``Lanham Act'''	1
+'``Lanham Act'').'	1
+'``Stop Online'	1
+'``Trademark Act'	1
+'``U.S.-directed site'''	1
+'``USTR'' means'	1
+'``United States'	1
+'``United States'''	1
+'``adulterated'' has'	1
+'``and'' at'	1
+'``committed for'	1
+'``domain name'	1
+'``domain name'''	1
+'``domestic Internet'	2
+'``domestic domain'	1
+'``drug'' has'	1
+'``during any'	1
+'``foreign Internet'	1
+'``foreign domain'	1
+'``foreign infringing'	1
+'``foreign'	1
+'``if the'	1
+'``in any'	1
+'``including by'	1
+'``including'' means'	1
+'``intellectual property'	1
+'``intellectual'	1
+'``misbranded'' has'	1
+'``nonauthoritative domain'	1
+'``not less'	1
+'``not more'	1
+'``not'	1
+'``of 10'	1
+'``of at'	1
+'``operator'','	1
+'``owner'' or'	1
+'``payment network'	1
+'``prescription medication'''	1
+'``qualifying'	1
+'``service provider'''	1
+'``under paragraph'	1
+'``valid prescription'''	1
+'`counterfeit drug''	1
+'`critical infrastructure''	1
+'`distribution', and'	1
+'`drug counterfeiting''	1
+'`falsely identified'	1
+'`final dosage'	1
+'`public'	1
+'`reproduction', `distribution','	1
+'`use in'	2
+'`work being'	1
+'a U.S.-directed'	3
+'a ``foreign'	1
+'a bona'	1
+'a cache'	1
+'a certification'	1
+'a common'	2
+'a complete'	2
+'a component'	2
+'a computer'	3
+'a contract'	1
+'a copy'	20
+'a copyright'	1
+'a copyright.'	1
+'a counter'	1
+'a counterfeit'	3
+'a country'	1
+'a court'	12
+'a current'	1
+'a debit,'	1
+'a deconfliction'	1
+'a defendant'	1
+'a defense'	2
+'a depository'	1
+'a different'	3
+'a direct'	1
+'a domain'	7
+'a domestic'	4
+'a drug'	1
+'a fine'	4
+'a foreign'	10
+'a format'	1
+'a good'	7
+'a high'	1
+'a holder'	1
+'a hyperlinked'	1
+'a judicial'	4
+'a law'	3
+'a list'	1
+'a local'	1
+'a location'	1
+'a majority'	1
+'a manner'	1
+'a member--'	1
+'a military'	3
+'a motion'	6
+'a musical'	1
+'a nonauthoritative'	1
+'a notice'	2
+'a notification'	4
+'a numerical'	1
+'a packet-'	1
+'a paid'	1
+'a particular'	2
+'a payment'	8
+'a period;'	1
+'a person'	6
+'a portion'	4
+'a preliminary'	1
+'a prior'	1
+'a process'	1
+'a product'	1
+'a protocol'	1
+'a qualifying'	3
+'a reasonable'	2
+'a regional'	1
+'a registrant'	3
+'a relief'	2
+'a report'	3
+'a reserve'	1
+'a result'	2
+'a semicolon;'	2
+'a server'	2
+'a service'	7
+'a showing'	1
+'a site'	1
+'a sound'	1
+'a study'	1
+'a technical'	2
+'a temporary'	2
+'a total'	2
+'a trade'	1
+'a unique'	1
+'a valid'	1
+'a violation'	4
+'a work'	1
+'a written'	2
+'a'	31
+'about what'	1
+'abroad shall'	1
+'abroad.'	3
+'absence of'	2
+'accept'	1
+'access by'	1
+'access has'	1
+'access to'	10
+'access'	1
+'accessible database'	4
+'accessible or'	1
+'accessible through'	1
+'accessible to'	2
+'accessible'	1
+'accessing capital'	1
+'accordance with'	4
+'accordance'	1
+'according to'	1
+'accordingly.'	2
+'account--'	2
+'accounts it'	4
+'accurate, and,'	1
+'achieve consistency'	1
+'achieve the'	1
+'acknowledging receipt'	1
+'across a'	1
+'act on'	2
+'act reasonably'	1
+'act'	3
+'act, failure,'	2
+'act.--The term'	1
+'acted willfully'	1
+'acting in'	3
+'acting with'	1
+'action against'	6
+'action against,'	1
+'action against--'	2
+'action available'	1
+'action brought'	2
+'action by'	1
+'action commenced'	2
+'action described'	5
+'action for'	1
+'action is'	3
+'action prescribed'	2
+'action pursuant'	2
+'action shall'	3
+'action to'	2
+'action under'	7
+'action'	12
+'action.'	1
+'actions brought'	1
+'actions described'	2
+'actions pursuant'	1
+'actions taken'	2
+'actions to'	1
+'actions with'	1
+'actions'	1
+'actions.--An Internet'	2
+'activities as'	1
+'activities cause'	1
+'activities described'	6
+'activities of'	7
+'activities under'	1
+'activity as'	2
+'activity described'	1
+'activity should'	1
+'acts described'	1
+'acts reasonably'	1
+'acts'	2
+'adapt to'	1
+'adding at'	2
+'additional appropriate'	2
+'address allocation'	1
+'address associated'	1
+'address for'	1
+'address intellectual'	1
+'address is'	1
+'address notwithstanding'	1
+'address of'	2
+'address on'	1
+'address that'	1
+'address within'	2
+'address'	1
+'address'' means'	3
+'address, and'	1
+'address, email'	1
+'address, is'	1
+'address, may'	1
+'address, phone'	1
+'address, the'	1
+'address,'	1
+'address. Such'	1
+'address.'	3
+'address.--The term'	3
+'addressed relative'	1
+'addresses appearing'	2
+'addresses are'	8
+'addresses for'	2
+'addresses of'	4
+'addresses'	1
+'addressing--'	1
+'adequacy of'	1
+'adequate resources'	1
+'adjudicated in'	2
+'adjudicating'	1
+'administration.--The Secretary'	1
+'administrative agency'	3
+'administrative and'	1
+'adopt industry'	1
+'adulterated or'	1
+'advance the'	2
+'advance'	1
+'advancement of'	1
+'advantage or'	2
+'advertisement,'	1
+'advertisements for'	3
+'advertisements to'	3
+'advertiser, Internet'	2
+'advertising or'	3
+'advertising service'	15
+'advertising service'''	1
+'advertising service,'	2
+'advertising service.'	1
+'advertising service.--The'	1
+'advertising services.--'	2
+'advertising services.--Except'	1
+'advertising to'	5
+'advertising'	2
+'advertising,'	1
+'advisory'	1
+'affect the'	2
+'affected'	1
+'affiliate (including'	1
+'affiliation with'	1
+'affiliation.--A payment'	2
+'affirmative defense'	1
+'affirmative steps'	1
+'affirmative'	1
+'after being'	6
+'after delivery'	2
+'after paragraph'	1
+'after that'	1
+'after the'	8
+'against a'	3
+'against an'	1
+'against any'	6
+'against notorious'	1
+'against sites'	2
+'against such'	2
+'against that'	1
+'against the'	3
+'against violations'	1
+'against whom'	1
+'against, a'	1
+'against, and'	1
+'against, no'	1
+'against--'	2
+'agencies of'	2
+'agencies with'	1
+'agencies, including'	2
+'agencies, shall'	2
+'agency against,'	1
+'agency who'	1
+'agency'	2
+'agency; or'	1
+'agent designated.--If'	2
+'agent of'	2
+'agent thereof,'	4
+'agent to'	1
+'agent under'	2
+'agent'	1
+'agent, or'	1
+'agent.'	1
+'agent.--'	1
+'agents'	1
+'agents, that'	1
+'agents.--The Register'	1
+'aggressive support'	1
+'agreeing to'	1
+'aids drug'	1
+'all amended'	1
+'all court'	1
+'all intellectual'	1
+'all that'	3
+'all training'	1
+'alleged activity'	1
+'alleged violation'	1
+'alleging that'	2
+'allocated or'	1
+'allocation authority,'	1
+'allocation entity'	3
+'allocation entity'''	1
+'allocation entity.--The'	1
+'allocations and'	3
+'amend Federal'	1
+'amend the'	3
+'amended as'	1
+'amended by'	1
+'amended order'	5
+'amended orders'	1
+'amended to'	2
+'amended under'	2
+'amended, in'	1
+'amended--'	2
+'amending paragraph'	1
+'amending such'	1
+'amendment described'	1
+'amendment.--Nothing in'	1
+'amendments made'	1
+'amendments provided'	1
+'amendments to'	1
+'an Armed'	1
+'an Internet'	26
+'an action'	13
+'an additional'	2
+'an address'	2
+'an advertisement,'	1
+'an affirmative'	1
+'an agent'	3
+'an amended'	3
+'an analysis'	1
+'an appropriate'	4
+'an attache'	1
+'an authoritative'	1
+'an effective'	4
+'an electronic'	1
+'an entity'	5
+'an in'	5
+'an individual'	2
+'an individual,'	7
+'an individual.--A'	2
+'an injunction,'	2
+'an intellectual'	2
+'an investigation'	1
+'an offense'	7
+'an official'	1
+'an ongoing'	1
+'an order'	9
+'an order--'	1
+'an organized'	1
+'an owner'	4
+'an unreasonable'	2
+'an'	24
+'analysis of'	4
+'and (6),'	1
+'and (ii);'	1
+'and Central'	1
+'and Commerce,'	1
+'and Cosmetic'	2
+'and Customs'	2
+'and Director'	1
+'and Eurasia.'	1
+'and Exchange'	1
+'and Federal'	1
+'and Guidelines'	1
+'and House'	1
+'and Mr.'	2
+'and Organization'	1
+'and Recommendations'	1
+'and State'	1
+'and Technical'	1
+'and Trademark'	2
+'and ``Director'''	1
+'and `public'	1
+'and a'	1
+'and activities'	1
+'and administration.--The'	1
+'and agencies'	2
+'and all'	4
+'and an'	1
+'and any'	5
+'and appropriate'	2
+'and assignments,'	1
+'and attorneys''	1
+'and based'	1
+'and by'	1
+'and commercial'	1
+'and conduct'	1
+'and country-'	1
+'and country-specific'	1
+'and designate'	1
+'and desist'	2
+'and development'	1
+'and does'	1
+'and economic'	1
+'and effectiveness'	1
+'and electronic'	8
+'and expertise,'	1
+'and for'	5
+'and if'	2
+'and in'	2
+'and includes'	4
+'and industries'	1
+'and industry'	1
+'and innovation'	2
+'and insert'	1
+'and inserting'	7
+'and intent'	2
+'and interests.'	1
+'and is'	2
+'and knowingly'	1
+'and make'	1
+'and minimum'	1
+'and no'	1
+'and not'	1
+'and objectives'	1
+'and on'	2
+'and other'	1
+'and outreach'	1
+'and oversee'	1
+'and personnel'	1
+'and policy'	3
+'and prevent'	1
+'and priorities'	2
+'and procedures'	1
+'and processes'	1
+'and reasonable'	7
+'and recommendations'	1
+'and relief.--'	1
+'and response.--'	1
+'and section'	1
+'and services'	1
+'and services,'	3
+'and severability'	1
+'and study.'	1
+'and support'	2
+'and taken'	2
+'and technical'	4
+'and the'	17
+'and to'	7
+'and training'	1
+'and will'	1
+'and willfully'	1
+'and'	76
+'and'' and'	1
+'and'';'	1
+'and, if'	1
+'and, under'	1
+'annual report'	1
+'another acting'	2
+'another good'	2
+'another offense'	1
+'any 180-day'	5
+'any Federal'	5
+'any United'	1
+'any account--'	1
+'any act'	4
+'any action'	5
+'any acts'	1
+'any case'	7
+'any cause'	1
+'any claim'	3
+'any commonwealth,'	1
+'any compensation'	3
+'any corporation,'	1
+'any country'	1
+'any court'	1
+'any director,'	4
+'any domain'	2
+'any entity'	10
+'any foreign'	1
+'any further'	1
+'any judicial'	2
+'any limitations'	1
+'any measures'	1
+'any need'	1
+'any notice'	1
+'any officer'	2
+'any other'	4
+'any owner'	1
+'any period'	1
+'any permanent'	1
+'any person'	5
+'any person,'	2
+'any predecessor'	1
+'any prescription'	2
+'any prices'	1
+'any provision'	1
+'any registrant'	2
+'any subdomain'	1
+'any subsequent'	1
+'any successor'	1
+'any term'	2
+'any time'	4
+'any type'	1
+'any'	9
+'any, and'	4
+'any,'	2
+'any--'	2
+'any.'	1
+'appearing in'	3
+'appearing'	1
+'applicable block'	1
+'applicable law.'	1
+'applicable law;'	1
+'applicable laws,'	1
+'applicable publicly'	4
+'applicable to'	1
+'applicable'	1
+'application of'	3
+'application or'	1
+'application'	1
+'application' means'	2
+'application, or'	2
+'application.'	1
+'application;'	1
+'applied thereto,'	1
+'apply an'	4
+'apply:'	2
+'appoint at'	1
+'appointed under'	3
+'appointed'	3
+'appointment, designation'	1
+'appropriate departments'	2
+'appropriate enhancement'	1
+'appropriate law'	3
+'appropriate offense'	4
+'appropriate punishment'	1
+'appropriate resources'	1
+'appropriate staff'	1
+'appropriate steps'	1
+'appropriate'	2
+'appropriate, amend'	1
+'appropriate.'	1
+'approval of'	2
+'approved July'	1
+'are addressed'	1
+'are assigned.'	1
+'are available'	1
+'are consistent'	1
+'are demonstrated'	1
+'are designed'	4
+'are indicated'	1
+'are likely'	1
+'are not'	1
+'are provided'	1
+'are reasonably'	7
+'are serving'	1
+'are the'	1
+'are'	2
+'arising from'	4
+'as a'	9
+'as an'	1
+'as are'	1
+'as defined'	1
+'as directed'	1
+'as expeditiously'	6
+'as follows:'	3
+'as limited'	1
+'as may'	2
+'as meeting'	1
+'as of'	8
+'as part'	1
+'as possible,'	8
+'as practicable'	1
+'as provided'	2
+'as set'	1
+'as shown'	2
+'as soon'	1
+'as that'	1
+'as the'	12
+'as those'	1
+'as though'	1
+'as'	6
+'assembled,'	1
+'assets, accessible'	1
+'assets, including'	1
+'assigned by'	2
+'assigned the'	4
+'assigned to'	2
+'assigned under'	1
+'assigned.'	2
+'assigning intellectual'	1
+'assignment, and'	1
+'assignments, if'	3
+'assist in'	3
+'assistance programs'	2
+'assistance provided'	1
+'assistance'	1
+'associated with'	1
+'associated.'	1
+'assuming duties'	1
+'at a'	2
+'at any'	2
+'at least'	5
+'at the'	13
+'at'	1
+'attache appointed'	1
+'attache are'	1
+'attache is'	1
+'attache shall'	1
+'attache to'	1
+'attaches and'	1
+'attaches appointed'	3
+'attaches are'	1
+'attaches of'	1
+'attaches shall'	2
+'attaches will'	1
+'attaches'	1
+'attaches, in'	1
+'attaches--'	1
+'attaches.'	1
+'attempted to'	2
+'attempts to'	4
+'attempts'	1
+'attorneys''	1
+'audiovisual work,'	1
+'authoritative response'	1
+'authority granted'	1
+'authority over'	1
+'authority that'	4
+'authority to'	1
+'authority under'	3
+'authority, according'	1
+'authority, relating'	1
+'authority, that'	1
+'authority, to'	1
+'authorization of'	3
+'authorization'	1
+'authorized by'	3
+'authorized to'	3
+'available advertisements'	1
+'available at'	1
+'available database'	1
+'available elsewhere'	1
+'available for'	1
+'available in'	1
+'available on'	2
+'available through'	1
+'available to'	1
+'available via'	1
+'available'	3
+'available; and'	2
+'available; or'	5
+'available;'	1
+'avoid confirming'	1
+'avoided)''.'	1
+'badges, emblems,'	1
+'based on'	2
+'based solely'	1
+'basis in'	1
+'basis of'	2
+'basis'	1
+'be a'	4
+'be affected'	1
+'be an'	1
+'be assigned'	2
+'be carried'	1
+'be cited'	1
+'be conducted'	1
+'be considered'	3
+'be consistent'	1
+'be construed'	1
+'be designated'	1
+'be designed'	1
+'be determined'	1
+'be filed'	4
+'be fined'	6
+'be foreseen'	1
+'be found.'	2
+'be harmed'	1
+'be in'	1
+'be liable'	3
+'be modified,'	2
+'be presumed'	2
+'be prohibited'	1
+'be proper'	2
+'be provided'	1
+'be punished'	2
+'be required'	2
+'be required--'	1
+'be served'	2
+'be shown'	1
+'be subject'	1
+'be sufficient'	1
+'be taken'	2
+'be the'	1
+'be transferred'	1
+'be unauthorized'	2
+'be used'	2
+'be'	12
+'be) in'	2
+'be, for'	2
+'bearing a'	1
+'been applied'	1
+'been commercially'	3
+'been effectively'	1
+'been identified'	1
+'been made'	2
+'been offered'	1
+'been re-registered'	2
+'been reconstituted'	1
+'been served'	2
+'been'	2
+'before assuming'	1
+'before the'	1
+'behalf of'	3
+'being obtained'	1
+'being prepared'	1
+'being served'	8
+'being taken'	1
+'being used'	1
+'being'	3
+'belief that'	2
+'belief'	1
+'believe that'	3
+'believes is'	1
+'benefit in'	1
+'bilateral obligations'	1
+'bill; which'	1
+'billed in'	1
+'block of'	1
+'blocking access'	1
+'bodily harm'	1
+'bodily harm.--If'	1
+'bodily injury'	2
+'bona'	1
+'both, and'	3
+'both, and,'	1
+'both.'	3
+'boxes, containers,'	1
+'bring an'	2
+'brokers, serves,'	1
+'brought by'	1
+'brought in'	2
+'brought under'	1
+'brought.'	2
+'burden, or'	2
+'bureau of'	1
+'business directed'	1
+'business entity,'	2
+'business'	1
+'businesses from'	1
+'businesses to'	1
+'businesses, and'	1
+'but has'	2
+'but in'	8
+'but is'	1
+'but shall'	2
+'but uses'	1
+'but'	1
+'by Attorney'	1
+'by Individuals.--Section'	1
+'by Organizations.--Section'	1
+'by a'	7
+'by adding'	2
+'by amending'	1
+'by an'	2
+'by any'	2
+'by clear'	1
+'by continuing'	1
+'by customers'	2
+'by electronic'	2
+'by evidence'	1
+'by intellectual'	2
+'by its'	4
+'by itself,'	1
+'by law.'	1
+'by making'	1
+'by means'	2
+'by or'	4
+'by other'	1
+'by providing'	1
+'by qualifying'	1
+'by reason'	2
+'by rule'	2
+'by section'	1
+'by sections'	1
+'by showing'	2
+'by striking'	12
+'by such'	8
+'by the'	27
+'by this'	5
+'by users'	2
+'by violations'	1
+'by'	9
+'by--'	2
+'bypassing of'	2
+'cache'	1
+'cans, cases,'	1
+'capital in'	2
+'capital markets'	1
+'capital to'	1
+'carried out'	1
+'carry out'	3
+'carrying out'	3
+'case may'	1
+'case of'	5
+'case within'	5
+'case'	5
+'case;'';'	1
+'cases, hangtags,'	1
+'categories, questions,'	1
+'categorizes, or'	1
+'cause confusion,'	1
+'cause death'	1
+'cause mistake,'	1
+'cause of'	6
+'cause order.--On'	1
+'cause significant'	1
+'cause to'	1
+'cause'	3
+'cause, and'	1
+'cause--'	1
+'causes or'	2
+'cease and'	2
+'cease making'	3
+'cease providing'	3
+'ceases or'	1
+'certain international'	1
+'certification agreeing'	1
+'certification required'	1
+'certification'	1
+'certified falsely'	1
+'chapter 90,'	1
+'charms,'	1
+'circumstance, is'	1
+'circumstances shall'	1
+'circumvent any'	2
+'circumvention or'	2
+'cited as'	1
+'civil or'	1
+'claim or'	3
+'claim that'	1
+'class described'	1
+'classified'	1
+'clause (i)'	4
+'clause (i).'	2
+'clause with'	4
+'clauses'	1
+'clauses.'	1
+'clear expression'	1
+'clearly show'	1
+'clears,'	1
+'collection of'	1
+'combat operations;'	1
+'combat'	1
+'combating the'	2
+'commence an'	4
+'commenced under'	2
+'commencement of'	2
+'commencing an'	2
+'commerce, to'	1
+'commercial advantage'	1
+'commercial dispute'	1
+'commercial dissemination''	1
+'commercial dissemination,'	1
+'commercial distribution'	1
+'commercial or'	1
+'commercial'	5
+'commercially distributed'	1
+'commercially'	2
+'commission of'	1
+'commits an'	5
+'commits economic'	1
+'commits'	2
+'committed in'	1
+'committed--'	1
+'committee established'	1
+'committing or'	1
+'common Internet'	1
+'common domain'	1
+'commonwealth, possession,'	1
+'communicate such'	2
+'communicating data'	1
+'communication that'	2
+'communication.'	1
+'compel such'	1
+'compelling'	1
+'compensation for'	2
+'compensation'	2
+'complete copies'	1
+'complete defense'	1
+'complete payment'	1
+'complete such'	2
+'complete'	1
+'completing payment'	3
+'compliance is'	1
+'compliance with'	8
+'compliance'	1
+'complied or'	1
+'complied with'	1
+'comply but'	1
+'comply with'	12
+'comply'	1
+'comply.'	1
+'component of'	2
+'component of,'	1
+'component;'	1
+'components of'	1
+'comprised of'	1
+'compromised,'	1
+'computer network'	2
+'computer program,'	1
+'concepts,'	1
+'concert with'	2
+'conduct a'	1
+'conduct an'	1
+'conduct business'	1
+'conduct forming'	1
+'conduct in'	2
+'conduct is'	2
+'conduct where'	1
+'conducted by'	1
+'conducted to'	1
+'conducted under'	1
+'confirming'	1
+'conform its'	1
+'conforming amendments'	1
+'confusion, to'	1
+'congress.--Not later'	1
+'conjunction with,'	2
+'connection with'	6
+'consents to'	1
+'consider amending'	1
+'consider assigning'	1
+'consider whether'	2
+'consideration to'	1
+'considered to'	3
+'considers appropriate.'	1
+'consistency with'	3
+'consistent with'	6
+'consists of'	1
+'constitute a'	2
+'constitute service'	2
+'constituting the'	2
+'construction.--For purposes'	1
+'construction.--The authority'	2
+'construed to'	3
+'consultation with'	10
+'consumers, businesses,'	1
+'contact information'	1
+'contact the'	1
+'contacts'	1
+'contain complete'	1
+'contain reasonable'	1
+'containers, cans,'	1
+'containing that'	1
+'containing the'	1
+'contents of'	1
+'contents.'	1
+'continue to'	1
+'continuing to'	1
+'contract or'	1
+'contracts to'	1
+'contracts with'	2
+'contractual rights.'	1
+'contributory liability,'	1
+'controlled in'	1
+'conventions, and'	1
+'convicted of'	3
+'convicted of--'	1
+'convicted, if'	1
+'cooperation with'	1
+'coordinate enforcement'	1
+'coordinating the'	2
+'coordination with'	1
+'coordinator.--The'	2
+'copies for'	1
+'copies of'	2
+'copies or'	6
+'copy of'	20
+'copy'	2
+'copyright owner'	5
+'copyright owner,'	1
+'copyright owner;'	1
+'copyright shall'	1
+'copyright'	2
+'copyright.'	1
+'copyrighted work,'	1
+'copyrighted works'	1
+'copyrighted works,'	3
+'copyrighted'	2
+'copyrights,'	1
+'corporation, partnership,'	3
+'corresponding Internet'	1
+'corresponding'	2
+'costs and'	1
+'costs of'	1
+'could reasonably'	1
+'counter notification'	6
+'counter notification,'	1
+'counterfeit drugs'	1
+'counterfeit mark'	2
+'counterfeit mark,'	1
+'counterfeiting' means'	1
+'counterfeiting,'	1
+'countries of'	2
+'countries that'	2
+'countries where'	2
+'countries'	2
+'countries, and'	1
+'countries, intellectual'	1
+'countries.'	1
+'countries.--In carrying'	1
+'country in'	1
+'country that'	1
+'country-'	1
+'country-specific priorities'	1
+'country;'	1
+'court a'	1
+'court finds'	2
+'court may'	12
+'court or'	3
+'court order'	12
+'court order,'	2
+'court orders'	1
+'court shall'	1
+'court to'	2
+'court'	1
+'court's exercise'	1
+'court, may'	2
+'court.'	2
+'courts of'	1
+'covered by'	1
+'crawls, categorizes,'	1
+'creativity, entrepreneurship,'	2
+'credible evidence,'	1
+'credit union'	1
+'credit, or'	1
+'criminal enterprise;'	1
+'criminal law.'	1
+'criminal'	2
+'criteria of'	2
+'critical economic'	1
+'critical infrastructure;'	1
+'critical national'	1
+'critical'	4
+'currency of'	1
+'current directory'	1
+'customers and'	2
+'customers located'	3
+'customers of'	3
+'customers.'	2
+'damage will'	1
+'damages to'	1
+'damages, including'	1
+'dangerous goods'	1
+'data across'	1
+'data returns'	1
+'data'	1
+'database of'	4
+'database'	1
+'date of'	7
+'date on'	5
+'days after'	10
+'death from'	1
+'death.--'	1
+'death;'	1
+'debit, credit,'	1
+'deceive, or'	1
+'deconfliction process'	1
+'dedicated to'	16
+'dedicated'	3
+'defendant does'	1
+'defendant in'	1
+'defendant instead'	1
+'defendant may,'	2
+'defendant should'	1
+'defendant transmits'	2
+'defense but'	1
+'defense by'	2
+'defense only'	2
+'defense or'	1
+'defense'	1
+'defined in'	2
+'defined under'	1
+'defined.--The geographic'	1
+'deliberate actions'	1
+'delivered to'	1
+'delivered under'	1
+'delivery of'	3
+'delivery the'	1
+'demonstrated or'	2
+'demonstrated to'	2
+'demonstrates the'	1
+'department or'	1
+'departments and'	4
+'depository institution'	1
+'described in'	36
+'described'	2
+'design or'	1
+'designate an'	1
+'designate foreign'	1
+'designated agent'	2
+'designated an'	2
+'designated as'	1
+'designated under'	1
+'designated.--If a'	2
+'designating'	1
+'designation for'	1
+'designation using'	1
+'designed or'	5
+'designed to'	11
+'designed to--'	3
+'desist from'	2
+'despite good'	1
+'detailing the'	1
+'deter the'	1
+'determination under'	2
+'determine the'	2
+'determined in'	1
+'determines necessary'	1
+'deterrent'	1
+'develop a'	1
+'developed in'	1
+'development to'	1
+'development, protection,'	1
+'device that'	1
+'different domain'	3
+'digital assets,'	2
+'digital transmission,'	3
+'diligence a'	1
+'diligence the'	1
+'diminish liability,'	1
+'diplomatic mission'	3
+'diplomatic missions'	1
+'diplomatic rank'	1
+'direct'	1
+'directed to'	1
+'directed under'	1
+'directives and'	1
+'directly engaged'	1
+'directly or'	1
+'directly'	1
+'director,'	4
+'directors, officers,'	1
+'directory of'	1
+'disabled by'	1
+'disclosure of'	1
+'discussion of'	2
+'dispensing, or'	2
+'displayed to'	1
+'disposition of'	1
+'dispute over'	1
+'disseminated to'	2
+'dissemination of'	1
+'dissemination' means--'	1
+'dissemination, by'	1
+'dissemination.'	1
+'distributed in'	1
+'distributing'	2
+'distribution but'	1
+'distribution or'	3
+'distribution'	1
+'distribution, or'	2
+'distribution,'	1
+'distribution; and'	1
+'distributions, or'	5
+'district of'	4
+'district where'	2
+'do so;'	1
+'documentation, or'	1
+'does not'	7
+'does so'	1
+'domain name'	47
+'domain name'''	1
+'domain name's'	1
+'domain name,'	4
+'domain name.'	1
+'domain name.--The'	2
+'domain'	7
+'domains but'	1
+'domestic Internet'	4
+'domestic domain'	2
+'dosage form''	1
+'downloading such'	1
+'drug that'	1
+'drug'	1
+'drug' has'	1
+'drugs or'	1
+'due diligence'	2
+'during any'	4
+'during the'	1
+'duties at'	1
+'duties'	1
+'duty to'	4
+'each Internet'	1
+'each class'	1
+'each device'	1
+'each intellectual'	1
+'each potential'	1
+'each'	1
+'economic burden,'	2
+'economic espionage,'	2
+'economic espionage;'	1
+'economic importance'	1
+'economic value'	1
+'economic'	1
+'effect or'	1
+'effect timely'	1
+'effective counter'	3
+'effective deterrent'	1
+'effective only'	1
+'effective under'	1
+'effective'	1
+'effectively disabled'	1
+'effectiveness of'	2
+'efforts to'	3
+'either the'	1
+'either--'	1
+'electronic address'	1
+'electronic format,'	1
+'electronic mail'	6
+'electronic means,'	2
+'electronic signature'	2
+'electronic'	3
+'elsewhere on'	1
+'email address,'	1
+'embassies or'	1
+'embassy or'	3
+'emblems, medallions,'	1
+'emerging'	1
+'employee, or'	4
+'employees, or'	1
+'enable a'	1
+'enable the'	1
+'enables, or'	1
+'enacted by'	1
+'enactment of'	3
+'encourage foreign'	1
+'end and'	2
+'end the'	2
+'end;'	1
+'endanger public'	1
+'endangers the'	3
+'ending'	1
+'enforce compliance'	1
+'enforce the'	1
+'enforce'	1
+'enforcement action'	1
+'enforcement agencies'	1
+'enforcement agencies,'	2
+'enforcement and'	2
+'enforcement coordinator.--The'	2
+'enforcement of'	2
+'enforcement or'	3
+'enforcement'	2
+'enforcement'' has'	1
+'enforcement.--The term'	1
+'enforcement; or'	1
+'engage in'	1
+'engaged in'	1
+'engaged'	1
+'engages in,'	1
+'engine shall'	1
+'engine'' means'	1
+'engine, domain'	2
+'engine.--The term'	1
+'engines.--A provider'	1
+'enhancement for'	1
+'enhancement if'	2
+'enhancement'	3
+'enjoin such'	1
+'enlarge or'	1
+'ensure compliance'	1
+'ensure reasonable'	1
+'ensure that'	4
+'ensure timely'	1
+'ensure--'	1
+'enterprise;'	1
+'entities described'	1
+'entities from'	1
+'entities within'	1
+'entitled ``An'	1
+'entitled to'	1
+'entity against'	1
+'entity appearing'	2
+'entity described'	2
+'entity does'	1
+'entity from'	1
+'entity has'	1
+'entity is'	1
+'entity other'	2
+'entity required'	2
+'entity resides'	1
+'entity served'	7
+'entity taking'	2
+'entity that'	6
+'entity to'	6
+'entity under'	1
+'entity will'	1
+'entity'	1
+'entity'' means,'	1
+'entity's terms'	1
+'entity's users'	2
+'entity, local'	1
+'entity, or'	3
+'entity,'	2
+'entity--'	1
+'entity.'	2
+'entity.--The term'	1
+'entrepreneurship, and'	2
+'equitable'	1
+'espionage, including'	1
+'espionage, that'	1
+'espionage.'	1
+'espionage;'	1
+'establish an'	2
+'establish that'	1
+'establish willful'	1
+'established under'	1
+'establishment) of'	1
+'evidence of'	1
+'evidence of--'	1
+'evidence that'	1
+'evidence'	3
+'evidence, may'	1
+'examination of'	1
+'exclusive rights'	2
+'exercise of'	2
+'exhibition facility;'	1
+'exhibition'	1
+'existence of'	2
+'existing resources,'	2
+'existing resources.'	1
+'exists, in'	1
+'expectation of'	2
+'expeditiously as'	8
+'expenses for'	1
+'experience and'	1
+'expertise,'	1
+'expiration, or'	2
+'expired or'	2
+'expired.'	1
+'explaining why'	1
+'exports, or'	1
+'expression or'	1
+'extent such'	8
+'extent they'	1
+'face a'	1
+'facilitate a'	1
+'facilitates the'	1
+'facilitates--'	1
+'facilitating the'	1
+'facilities;'	1
+'facility; and'	1
+'facility; or'	1
+'fact by'	1
+'facts'	1
+'failed to'	2
+'failed, or'	1
+'fails to'	3
+'failure, or'	2
+'fair market'	1
+'faith and'	1
+'faith belief'	1
+'faith efforts'	2
+'faith'	2
+'falsely identified'	1
+'falsely'	1
+'feasible and'	7
+'feasible'	1
+'fee, advertising,'	1
+'fees, incurred'	1
+'fide commercial'	1
+'file a'	1
+'file that'	1
+'file with'	1
+'filed by--'	2
+'filed such'	1
+'filed with'	2
+'financial affiliation'	1
+'financial gain'	1
+'financial gain;'	1
+'find a'	2
+'finds that--'	2
+'fine of'	3
+'fine'	1
+'fined not'	7
+'fined'	1
+'focus primarily'	1
+'following bill;'	1
+'following new'	1
+'following shall'	2
+'following the'	2
+'following:'	6
+'follows and'	3
+'follows:'	5
+'for Intellectual'	5
+'for advertising'	3
+'for an'	4
+'for any'	7
+'for assignment,'	1
+'for case'	1
+'for commercial'	3
+'for communicating'	1
+'for communication.'	1
+'for compensation'	1
+'for damages'	1
+'for damages,'	1
+'for enforcement'	1
+'for funding'	1
+'for goods'	1
+'for holders'	1
+'for in'	1
+'for injunctive'	1
+'for inspection,'	1
+'for intellectual'	1
+'for life,'	1
+'for not'	1
+'for offenses'	1
+'for other'	5
+'for purposes'	4
+'for research'	1
+'for sale'	2
+'for service.--A'	1
+'for such'	12
+'for taking'	3
+'for the'	13
+'for those'	2
+'for use'	3
+'for which'	5
+'for'	7
+'foreign Internet'	5
+'foreign and'	2
+'foreign businesses'	1
+'foreign countries'	1
+'foreign domain'	1
+'foreign establishment)'	1
+'foreign infringers'	7
+'foreign infringers.'	1
+'foreign infringing'	17
+'foreign markets'	1
+'foreign policy'	1
+'foreign site,'	1
+'foreign subsidiary'	1
+'foreign'	9
+'foreseen to'	1
+'form as'	2
+'form for'	1
+'form' has'	1
+'format intended'	1
+'format, a'	1
+'forming the'	1
+'forms of'	2
+'forth in'	3
+'forth under'	1
+'foster'	1
+'found has'	2
+'found.'	2
+'free speech'	1
+'from a'	1
+'from being'	2
+'from completing'	2
+'from conduct'	1
+'from foreign'	1
+'from liability.--Other'	2
+'from providing'	1
+'from raising'	1
+'from resolving'	1
+'from such'	4
+'from suit.--Other'	2
+'from the'	3
+'from undertaking'	2
+'from'	6
+'from, or'	3
+'fully trained'	1
+'function pertaining'	1
+'functions; and'	1
+'funding of'	1
+'funding or'	1
+'further activity'	2
+'furthering the'	1
+'gain under'	1
+'gain;'	1
+'general public'	1
+'general, and'	1
+'general.--'	1
+'general.--A person'	1
+'general.--A service'	1
+'general.--Any person'	1
+'general.--At any'	2
+'general.--Each payment'	1
+'general.--Subject to'	1
+'general.--The Attorney'	1
+'general.--The qualifying'	1
+'general.--The term'	1
+'general.--To ensure'	1
+'general.--Using existing'	1
+'geographic region'	1
+'geographic regions'	1
+'give consideration'	1
+'give priority'	1
+'given that'	5
+'given'	5
+'globally,'	1
+'goals and'	2
+'good faith'	4
+'good or'	8
+'good'	2
+'goods and'	5
+'goods in'	1
+'goods or'	6
+'goods, services,'	1
+'governing such'	1
+'government to'	1
+'government's efforts'	1
+'governments to'	1
+'granted against,'	1
+'granted'	1
+'greater of'	1
+'greatest potential'	1
+'guidance from'	1
+'guidance to'	1
+'guidelines.'	1
+'had knowledge'	1
+'had not'	2
+'had such'	1
+'hangtags,'	1
+'harm inflicted'	1
+'harm or'	1
+'harm to'	1
+'harm--'	1
+'harm.--If the'	1
+'harmed by'	5
+'harmed'	1
+'has a'	4
+'has an'	2
+'has as'	4
+'has been'	7
+'has complied'	1
+'has expired'	2
+'has filed'	1
+'has knowingly'	3
+'has not'	3
+'has only'	1
+'has promoted,'	1
+'has received'	1
+'has registered'	2
+'has taken,'	1
+'has the'	10
+'has thereby'	1
+'has'	6
+'have a'	2
+'have acted'	1
+'have as'	1
+'have attempted'	1
+'have been'	2
+'have known'	1
+'have not'	1
+'have paid'	1
+'have the'	2
+'heads of'	3
+'health'' means'	1
+'health.'	2
+'health.--The'	1
+'held to'	1
+'high probability'	1
+'himself and'	1
+'hiring, personnel'	1
+'holder of'	6
+'holder, its'	1
+'holders about'	1
+'holders of'	5
+'holders should'	1
+'honor its'	1
+'host government'	1
+'host'	1
+'hours before'	1
+'how these'	1
+'hyperlinked list'	1
+'hypertext link.'	1
+'identified as'	2
+'identified in'	2
+'identified under'	2
+'identified'	1
+'identify a'	1
+'identify and'	2
+'if a'	2
+'if alleging'	2
+'if an'	4
+'if any,'	6
+'if any.'	1
+'if appropriate,'	1
+'if it'	6
+'if no'	2
+'if other'	1
+'if such'	2
+'if the'	6
+'if there'	3
+'if'	2
+'if, at'	2
+'if--'	3
+'immediate and'	1
+'impairment of'	1
+'importance to'	1
+'imports, exports,'	1
+'impose a'	1
+'impose an'	1
+'imposed under'	1
+'imprisoned for'	1
+'imprisoned not'	2
+'imprisoned'	1
+'imprisonment for'	2
+'improperly restricted'	1
+'in Cases'	1
+'in Congress'	1
+'in House'	1
+'in Other'	1
+'in a'	12
+'in accessing'	1
+'in accordance'	5
+'in an'	10
+'in any'	22
+'in carrying'	1
+'in clause'	2
+'in clauses'	1
+'in commerce,'	1
+'in compliance'	3
+'in concert'	1
+'in conduct'	1
+'in conjunction'	2
+'in connection'	2
+'in consultation'	9
+'in coordinating'	2
+'in coordination'	1
+'in copyrighted'	1
+'in counterfeit'	1
+'in designating'	1
+'in each'	1
+'in electronic'	1
+'in fact'	1
+'in foreign'	1
+'in general,'	1
+'in good'	1
+'in goods'	1
+'in inherently'	1
+'in initiating'	1
+'in labels,'	1
+'in law'	2
+'in or'	2
+'in paragraph'	12
+'in particular.'	1
+'in personam'	2
+'in reducing'	1
+'in relations'	1
+'in rem'	4
+'in response'	1
+'in section'	14
+'in significant'	1
+'in spite'	1
+'in subparagraph'	6
+'in subparagraphs'	1
+'in subsection'	9
+'in such'	4
+'in that'	6
+'in the'	37
+'in this'	7
+'in those'	4
+'in title'	1
+'in viewable'	1
+'in violation'	3
+'in which'	1
+'in'	28
+'in, offering'	1
+'in, or'	1
+'in,'	1
+'in--'	2
+'in-mission of'	1
+'inability to'	2
+'incarceration in'	1
+'include in'	1
+'include whether--'	1
+'includes a'	1
+'includes any'	2
+'includes substantially'	1
+'includes the'	1
+'includes'	2
+'includes, but'	1
+'includes,'	1
+'including U.S.'	2
+'including a'	1
+'including addressing--'	1
+'including any'	1
+'including as'	2
+'including by'	1
+'including costs'	1
+'including either'	1
+'including holders'	1
+'including its'	1
+'including links,'	1
+'including measures'	1
+'including offering'	1
+'including the'	1
+'including through'	1
+'including trade'	1
+'including vicarious'	1
+'including'	1
+'including, but'	1
+'incurred by'	1
+'incurring an'	2
+'independently, in'	1
+'independently,'	1
+'indexes information'	1
+'indexes, or'	1
+'indicated'	1
+'indicating that'	1
+'indirectly'	1
+'individual countries'	1
+'individual is'	1
+'individual that'	2
+'individual who'	2
+'individual, a'	3
+'individual, be'	2
+'individual, shall'	1
+'individual,'	2
+'individual.--A'	2
+'industries in'	1
+'industries whose'	1
+'industry norms'	2
+'industry to'	1
+'inflicted by'	1
+'inform the'	4
+'information in'	1
+'information on'	1
+'information or'	2
+'information such'	1
+'information that'	1
+'information'	1
+'information;'	1
+'infrastructure application''	1
+'infrastructure application.'	1
+'infrastructure application;'	1
+'infrastructure' has'	1
+'infrastructure, and'	1
+'infrastructure.''.'	1
+'infrastructure; and'	1
+'infringement in'	1
+'infringement of'	1
+'infringement was'	1
+'infringement.'	1
+'infringer or'	1
+'infringers and'	2
+'infringers on'	1
+'infringers that'	1
+'infringers violate'	1
+'infringers whose'	1
+'infringers'	2
+'infringers.'	2
+'infringes a'	1
+'infringing activities'	1
+'infringing activity'	1
+'infringing foreign'	1
+'infringing site'	12
+'infringing site'''	1
+'infringing site,'	2
+'infringing site.'	1
+'infringing site;'	2
+'infringing sites.'	1
+'infringing'	5
+'inherently dangerous'	1
+'initiate a'	1
+'initiates a'	1
+'initiating an'	1
+'injunction, in'	2
+'injunction, or'	2
+'injunctive relief--'	1
+'injured by'	1
+'injury from'	1
+'injury or'	1
+'injury, loss,'	1
+'innovation by'	2
+'input.--In carrying'	1
+'insert ``of'	1
+'inserting ``20'	1
+'inserting ``committed'	1
+'inserting ``in'	1
+'inserting ``including'	1
+'inserting ``not'	1
+'inserting a'	3
+'inserting'	1
+'inserts, verifies,'	1
+'inspection, including'	1
+'instead commits'	1
+'instituted pursuant'	2
+'institution (as'	1
+'intellectual property'	40
+'intellectual property,'	1
+'intellectual property.'	1
+'intellectual'	3
+'intend to'	1
+'intended for'	3
+'intended to'	2
+'intent to'	2
+'intentionally imports,'	1
+'intentionally traffics'	2
+'intentionally'	1
+'interest in,'	1
+'interests of'	4
+'interests.'	1
+'interfering with'	1
+'international and'	1
+'international conventions,'	1
+'internet protocol'	2
+'internet registry'	1
+'internet registry,'	3
+'internet site'	1
+'internet site,'	1
+'internet site.--The'	2
+'internet sites'	1
+'internet'	2
+'internetwork using'	1
+'interpretation of'	1
+'intervene at'	2
+'introduced the'	1
+'investigation or'	1
+'investigation pursuant'	1
+'involve a'	1
+'involved a'	1
+'involving customers'	2
+'involving'	1
+'ipec.--Such training'	1
+'irreparable injury,'	1
+'is a'	11
+'is accessible'	2
+'is accurate,'	1
+'is adulterated'	1
+'is allocated'	1
+'is amended'	6
+'is amended,'	1
+'is amended--'	2
+'is an'	4
+'is as'	1
+'is assigned'	1
+'is assigned.'	1
+'is authorized'	1
+'is being'	3
+'is brought.'	1
+'is comprised'	1
+'is consistent'	1
+'is convicted'	3
+'is dedicated'	2
+'is defined'	1
+'is demonstrated'	1
+'is designed'	1
+'is directly'	1
+'is effective'	2
+'is evidence'	1
+'is falsely'	1
+'is fully'	1
+'is held'	1
+'is identified'	1
+'is improperly'	1
+'is in'	2
+'is intended'	2
+'is lawful'	1
+'is located'	2
+'is more'	1
+'is no'	6
+'is noninfringing.'	1
+'is not'	8
+'is organized'	1
+'is primarily'	2
+'is provided'	3
+'is providing'	1
+'is registered'	1
+'is rendered'	1
+'is served,'	2
+'is specified'	6
+'is subject'	15
+'is taking,'	1
+'is the'	1
+'is unable'	2
+'is used'	7
+'is'	19
+'issuance of'	2
+'issue a'	2
+'issue--'	1
+'issued by'	1
+'issued pursuant'	4
+'issued under'	13
+'issued'	2
+'issues under'	2
+'issues.'	1
+'it available'	1
+'it does'	1
+'it enacted'	1
+'it has'	4
+'it is'	3
+'it takes'	3
+'it'	2
+'its Web'	1
+'its agent,'	1
+'its applicable'	1
+'its authority'	1
+'its directors,'	1
+'its equitable'	1
+'its international'	1
+'its lawful'	1
+'its obligations'	1
+'its operator'	2
+'its own'	1
+'its service'	8
+'its service,'	1
+'its use'	1
+'its'	2
+'itself, shall'	1
+'judicial district'	5
+'judicial'	1
+'jurisdiction of'	3
+'jurisdiction over'	1
+'justice otherwise'	2
+'knew or'	1
+'know, or'	1
+'knowing that'	1
+'knowingly aids'	1
+'knowingly and'	5
+'knowingly materially'	1
+'knowingly or'	2
+'knowingly serves'	3
+'knowingly uses'	1
+'knowledge that'	1
+'known that'	1
+'knows, reasonably'	1
+'label that'	1
+'labels, patches,'	1
+'later than'	4
+'law enforcement'	7
+'law enforcement;'	1
+'law for'	1
+'law to'	2
+'law. Each'	1
+'law.'	4
+'law; and'	1
+'lawful orders,'	1
+'lawful'	1
+'lawfully; or'	1
+'lawfully;'	1
+'laws of'	2
+'laws,'	1
+'least 10'	3
+'least one'	1
+'least'	1
+'legal action'	1
+'legal remedy'	2
+'legal representative'	2
+'less than'	1
+'level enhancement'	4
+'level for'	1
+'level'	1
+'level;'	1
+'liability for'	1
+'liability of'	1
+'liability under'	1
+'liability, for'	1
+'liability, including'	1
+'liability.--Nothing in'	1
+'liability.--Other than'	2
+'liable for'	3
+'liable to'	1
+'license governing'	1
+'licensees, and'	1
+'licenses to'	1
+'lie in'	1
+'lie'	2
+'life, or'	2
+'likely to'	2
+'limitation on'	3
+'limitations'	1
+'limited by'	1
+'limited purpose'	2
+'limited to,'	1
+'limited to.'	1
+'link, or'	1
+'link.'	1
+'links, indexes,'	1
+'links, or'	3
+'list of'	2
+'local law'	2
+'local'	2
+'located in'	2
+'located within'	6
+'locating, viewing,'	1
+'location accessible'	1
+'location.'	1
+'longer, or'	2
+'lookups,'	1
+'loss, or'	1
+'made available'	3
+'made by'	1
+'made under'	1
+'mail address'	1
+'mail addresses'	4
+'mail'	4
+'maintain and'	1
+'maintain authority'	1
+'majority interest'	1
+'make available'	1
+'make such'	1
+'making a'	2
+'making available'	4
+'making it'	1
+'malfunctioned, failed,'	1
+'management and'	1
+'manner that'	1
+'manner'	1
+'mark has'	1
+'mark on'	1
+'mark,'	1
+'market value'	1
+'market, to'	1
+'marketed by'	2
+'marketed for'	2
+'marketed to'	1
+'markets in'	1
+'markets is'	1
+'material misrepresentation'	1
+'materially misrepresents'	1
+'materials bearing'	1
+'matter after'	1
+'matters, including'	1
+'matters.'	1
+'may be'	13
+'may be)'	2
+'may bring'	1
+'may commence'	4
+'may consider'	2
+'may establish'	2
+'may have'	1
+'may include'	1
+'may intervene'	2
+'may issue'	2
+'may order,'	2
+'may order.'	1
+'may otherwise'	1
+'may petition'	2
+'may rely'	1
+'may result'	2
+'may serve'	1
+'may stop'	1
+'may'	6
+'may, inform'	1
+'may, so'	1
+'mean the'	1
+'meaning given'	6
+'meaning'	4
+'means a'	9
+'means an'	6
+'means any'	1
+'means including,'	1
+'means of'	3
+'means the'	6
+'means there'	1
+'means to'	4
+'means'	4
+'means, during'	1
+'means, of'	1
+'means, such'	1
+'means, with'	2
+'means--'	2
+'means.'	1
+'measures described'	1
+'measures designed'	2
+'measures for'	1
+'measures taken'	1
+'measures to'	1
+'measures with'	1
+'measures'	2
+'measures, as'	6
+'measures,'	1
+'measures.--After being'	2
+'mechanism used'	1
+'medallions, charms,'	1
+'medication that'	1
+'medication'' means'	1
+'medication, and'	1
+'medication.--'	1
+'medication.--The term'	1
+'meet the'	2
+'meeting military'	2
+'meets a'	1
+'member--'	1
+'members of'	1
+'members'	1
+'military or'	3
+'military standards'	1
+'military'	1
+'minimum contacts'	1
+'minimum offense'	2
+'misappropriation of'	1
+'misbranded.'	1
+'misrepresentation that'	1
+'misrepresentation'	1
+'misrepresentation.'	1
+'misrepresents'	1
+'mission (as'	2
+'mission to'	1
+'missions where'	1
+'mistake, or'	1
+'modification, suspension,'	2
+'modified, suspended,'	2
+'modify its'	1
+'modify, suspend,'	4
+'monetary sanction,'	1
+'monitor.--A payment'	2
+'monitor.--An internet'	2
+'months after'	1
+'more copies'	1
+'more copyrighted'	4
+'more than'	22
+'more'	2
+'most recent'	1
+'most'	1
+'motion picture'	2
+'motion picture,'	1
+'motion picture--'	1
+'motion to'	2
+'motion under'	2
+'motion'	1
+'musical work,'	1
+'name as'	1
+'name described'	1
+'name of'	11
+'name or'	4
+'name or,'	2
+'name registrar'	1
+'name registrar,'	4
+'name registration'	5
+'name registry,'	2
+'name resolutions'	1
+'name server'	1
+'name server'''	1
+'name server.--The'	1
+'name system'	2
+'name that'	2
+'name to'	1
+'name used'	8
+'name'	5
+'name'' has'	1
+'name'' means'	1
+'name'''	1
+'name's Internet'	1
+'name's'	1
+'name, a'	1
+'name, address,'	2
+'name, or'	2
+'name, the'	1
+'name.'	2
+'name.--The term'	3
+'national defense'	1
+'national security'	4
+'national'	1
+'national;'	1
+'nature of'	1
+'nature, knowing'	1
+'necessary to'	1
+'need for'	1
+'need'	1
+'network accessible'	1
+'network provider'	16
+'network provider,'	1
+'network provider.--'	1
+'network providers.--'	2
+'network providers.--Except'	1
+'network that'	1
+'network'	5
+'network, software,'	1
+'never was,'	2
+'new subsection:'	1
+'no agent'	2
+'no cause'	2
+'no domain'	4
+'no liability'	1
+'no longer,'	1
+'no person'	1
+'no such'	2
+'no'	1
+'nonauthoritative domain'	1
+'noninfringing. Nothing'	1
+'norms that'	1
+'norms'	1
+'not a'	3
+'not authorized'	2
+'not be'	10
+'not been'	4
+'not contain'	1
+'not designated'	2
+'not expired.'	1
+'not have'	1
+'not identified'	1
+'not issue--'	1
+'not later'	2
+'not limited'	1
+'not meet'	2
+'not more'	17
+'not required'	1
+'not so'	1
+'not'	9
+'note), as'	1
+'notice of'	2
+'notice that'	2
+'notice'	1
+'notice.--The Attorney'	1
+'notification delivered'	1
+'notification is'	3
+'notification or'	1
+'notification pursuant'	2
+'notification to'	1
+'notification under'	12
+'notification who'	1
+'notification'	1
+'notification, a'	1
+'notification, is'	1
+'notification, or'	1
+'notification.'	2
+'notification.--'	1
+'notification.--Upon receipt'	1
+'notification; and'	1
+'notification;'	1
+'notifications described'	1
+'notorious foreign'	8
+'notorious'	1
+'notwithstanding the'	1
+'number of'	1
+'number, and'	1
+'numerical label'	1
+'object of'	1
+'objectives described'	1
+'objectives for'	1
+'obligations imposed'	1
+'obligations of'	2
+'obligations under'	2
+'obligations with'	1
+'obtained by'	1
+'obtained in'	1
+'occurring'	1
+'occurs'	1
+'of $10,000,000'	1
+'of 1'	5
+'of 1946'''	1
+'of 1974'	2
+'of 1974,'	1
+'of 1974.'	1
+'of 1987'	1
+'of 2008'	4
+'of America'	1
+'of Appropriations.--The'	1
+'of Arkansas,'	1
+'of Civil'	4
+'of Commerce'	4
+'of Commerce,'	2
+'of Construction.--Any'	1
+'of Contents.--The'	1
+'of Copyrights'	2
+'of Copyrights,'	3
+'of Counter'	1
+'of Defense,'	1
+'of Federal'	1
+'of First'	1
+'of Florida,'	1
+'of Internet'	1
+'of Orders.--'	3
+'of Representatives'	2
+'of Service.--A'	1
+'of Sites'	1
+'of State'	6
+'of State.'	2
+'of Texas'	1
+'of Total'	1
+'of Treasury'	1
+'of U.S.'	19
+'of USTR'	2
+'of Uniform'	1
+'of United'	7
+'of a'	31
+'of action'	7
+'of acts'	1
+'of adjudicating'	1
+'of agents'	1
+'of agents.--The'	1
+'of all'	2
+'of allocations'	3
+'of an'	21
+'of another'	2
+'of any'	9
+'of applicable'	1
+'of at'	3
+'of certain'	1
+'of civil'	1
+'of classified'	1
+'of combat'	1
+'of commercial'	4
+'of construction.--For'	1
+'of construction.--The'	2
+'of contents'	1
+'of contents.'	1
+'of copyrighted'	1
+'of copyrights,'	1
+'of countries'	1
+'of criminal'	2
+'of critical'	1
+'of digital'	4
+'of domains'	1
+'of existence'	1
+'of fee,'	1
+'of foreign'	1
+'of good'	1
+'of goods,'	1
+'of holders'	1
+'of how'	1
+'of incarceration'	1
+'of intellectual'	7
+'of ipec.--Such'	1
+'of its'	1
+'of justice'	2
+'of licenses'	1
+'of locating,'	1
+'of measures'	2
+'of members'	1
+'of minimum'	1
+'of more'	2
+'of not'	4
+'of notice.--The'	1
+'of notorious'	4
+'of orders.--'	2
+'of other'	3
+'of paragraph'	4
+'of perjury'	1
+'of perjury,'	1
+'of personal'	1
+'of previous'	1
+'of probable'	1
+'of process'	1
+'of process.'	2
+'of process.--For'	2
+'of process.--The'	1
+'of promoting,'	1
+'of property,'	2
+'of registrations,'	2
+'of relying'	1
+'of reproducing'	1
+'of reproduction,'	1
+'of reproductions,'	1
+'of resources.--The'	1
+'of section'	4
+'of service'	2
+'of sites'	1
+'of specific'	1
+'of study.--The'	1
+'of such'	14
+'of terms,'	1
+'of that'	1
+'of the'	154
+'of this'	17
+'of timely'	1
+'of title'	18
+'of trade'	1
+'of trademarks'	1
+'of u.s.'	2
+'of unauthorized'	1
+'of whether'	1
+'of which'	1
+'of years'	2
+'of'	48
+'of, has'	2
+'of,'	1
+'of--'	2
+'offender knowingly'	1
+'offender'	1
+'offense by'	1
+'offense described'	4
+'offense involved'	1
+'offense level'	6
+'offense level;'	1
+'offense under'	5
+'offense would'	1
+'offense'	1
+'offense'' and'	1
+'offense, or'	1
+'offense.''.'	1
+'offenses committed'	1
+'offenses under'	1
+'offenses'	2
+'offenses.--'	1
+'offenses.--In the'	1
+'offenses;'	1
+'offer copies'	1
+'offer or'	1
+'offer the'	1
+'offer to'	1
+'offered lawfully;'	1
+'offering or'	1
+'offering stock'	1
+'offering substantially'	1
+'offering'	1
+'offering, selling,'	2
+'offerings.'	1
+'offers to'	1
+'officer or'	2
+'officer, employee,'	4
+'officers, employees,'	1
+'official duties'	1
+'official function'	1
+'on Court'	2
+'on a'	1
+'on access'	2
+'on an'	1
+'on any'	1
+'on behalf'	3
+'on compliance'	2
+'on consumers,'	1
+'on credible'	1
+'on experience'	1
+'on free'	1
+'on intellectual'	1
+'on its'	1
+'on liability'	1
+'on or'	1
+'on relevant'	1
+'on similarly'	2
+'on that'	1
+'on the'	13
+'on which'	3
+'on'	3
+'one intellectual'	1
+'ongoing investigation'	1
+'online location.'	1
+'only for'	2
+'only if'	2
+'only limited'	2
+'operate, such'	1
+'operated for'	2
+'operates a'	1
+'operates the'	1
+'operations; or'	2
+'operator for'	2
+'operator of'	12
+'operator or'	2
+'operator that'	2
+'operator'	1
+'operator, of'	2
+'operator, or'	3
+'operator.--The terms'	1
+'or (2),'	1
+'or (B)'	2
+'or 1201'	2
+'or 2320,'	1
+'or 3'	1
+'or Counselor.'	1
+'or Internet'	8
+'or State'	4
+'or Vacation'	2
+'or Web'	1
+'or ``operator'','	1
+'or a'	8
+'or administrative'	2
+'or affiliate'	1
+'or against'	3
+'or agency'	1
+'or agent'	4
+'or agents,'	1
+'or amended'	1
+'or an'	11
+'or another'	2
+'or any'	1
+'or as'	6
+'or assigned'	6
+'or attempted'	1
+'or attempts'	5
+'or billed'	1
+'or both,'	3
+'or both.'	2
+'or by'	1
+'or bypassing'	2
+'or cause'	1
+'or chapter'	1
+'or circumstance,'	1
+'or circumstances'	1
+'or commits'	1
+'or contributory'	1
+'or credit'	1
+'or criminal'	1
+'or critical'	4
+'or customers'	1
+'or customers.'	2
+'or damage'	1
+'or data'	1
+'or death.--'	1
+'or delivered'	1
+'or diminish'	1
+'or diplomatic'	2
+'or directly'	1
+'or distributing'	2
+'or distribution,'	1
+'or domain'	2
+'or downloading'	1
+'or electronic'	2
+'or ending'	1
+'or facilitate'	1
+'or facilitates--'	1
+'or facilitating'	1
+'or for'	10
+'or foreign'	1
+'or has'	5
+'or if'	1
+'or imprisoned'	2
+'or imprisonment'	2
+'or in'	6
+'or inability'	2
+'or indexes'	1
+'or indirectly'	1
+'or intentionally'	1
+'or interpretation'	1
+'or is'	4
+'or knowingly'	1
+'or law.'	1
+'or legal'	2
+'or local'	1
+'or marketed'	3
+'or may'	2
+'or more'	4
+'or national'	3
+'or national;'	1
+'or never'	2
+'or no'	2
+'or of'	4
+'or offer'	1
+'or offers'	1
+'or operated'	2
+'or operator'	12
+'or operator,'	4
+'or organization.'	1
+'or other'	16
+'or otherwise'	2
+'or owner'	2
+'or packaging'	1
+'or paid'	3
+'or phonorecords'	2
+'or phonorecords'''	1
+'or phonorecords,'	3
+'or portion'	27
+'or private'	1
+'or provide--'	1
+'or public'	10
+'or reasonably'	3
+'or receiving'	3
+'or recklessly'	1
+'or refuse'	1
+'or refuses'	1
+'or regional'	1
+'or registrant,'	1
+'or related'	1
+'or relating'	3
+'or section'	2
+'or selection'	1
+'or selection.'	1
+'or service'	8
+'or service,'	2
+'or service.'	1
+'or services'	2
+'or services,'	1
+'or services.'	1
+'or services.--'	1
+'or should'	1
+'or specification'	1
+'or sponsored'	4
+'or subject'	1
+'or succeeded'	1
+'or successor'	1
+'or such'	4
+'or suspend'	1
+'or territory'	1
+'or that'	5
+'or the'	10
+'or to'	2
+'or under'	1
+'or use'	2
+'or vacate'	4
+'or vacated.'	2
+'or vacation'	1
+'or was'	1
+'or will'	1
+'or with'	4
+'or within'	6
+'or'	99
+'or, if'	2
+'or, in'	2
+'order and'	1
+'order as'	2
+'order be'	2
+'order by'	2
+'order is'	8
+'order issued'	13
+'order issues'	2
+'order may'	2
+'order or'	1
+'order pursuant'	3
+'order should'	1
+'order to'	2
+'order under'	6
+'order with'	1
+'order'	11
+'order, a'	2
+'order, designed'	3
+'order, despite'	1
+'order, from'	1
+'order, in'	1
+'order, or'	11
+'order, that'	4
+'order, the'	1
+'order,'	1
+'order--'	1
+'order.'	3
+'order.--On a'	1
+'order; and'	3
+'order; or'	1
+'order;'	5
+'orders issued'	2
+'orders'	1
+'orders, if'	1
+'orders.--'	2
+'organization (including'	1
+'organization described'	1
+'organization has'	1
+'organization, that'	1
+'organization.'	1
+'organized criminal'	1
+'organized under'	1
+'other Guideline'	1
+'other affirmative'	1
+'other appropriate'	1
+'other audiovisual'	1
+'other business'	1
+'other case;'';'	1
+'other contractual'	1
+'other costs'	1
+'other data'	1
+'other departments'	1
+'other domain'	1
+'other forms'	2
+'other mechanism'	1
+'other organization,'	1
+'other payment'	1
+'other persons'	1
+'other placements'	3
+'other process,'	1
+'other provision'	1
+'other provisions'	1
+'other purposes.'	2
+'other revenue'	1
+'other significant'	1
+'other stakeholders,'	1
+'other such'	2
+'other than'	10
+'other than,'	2
+'other'	10
+'otherwise be'	1
+'otherwise demonstrates'	1
+'otherwise facilitates'	1
+'otherwise require'	2
+'otherwise voluntarily'	1
+'out acts'	2
+'out in'	1
+'out paragraph'	1
+'out such'	1
+'out the'	1
+'out'	1
+'outreach of'	1
+'outside a'	1
+'outside of'	3
+'over hiring,'	1
+'over the'	2
+'oversee administrative'	1
+'own domain'	1
+'owner does'	1
+'owner has'	1
+'owner in'	1
+'owner more'	1
+'owner of'	1
+'owner or'	15
+'owner would'	1
+'owner'	3
+'owner's works'	1
+'owner, as'	1
+'owner, operator,'	1
+'owner; or'	1
+'owner;'	1
+'packaging of'	1
+'packet-'	1
+'paid or'	4
+'paid to'	1
+'paragraph (1)'	8
+'paragraph (1)(B);'	1
+'paragraph (1),'	9
+'paragraph (2)'	5
+'paragraph (2)(A)(iv),'	1
+'paragraph (2),'	6
+'paragraph (2).'	3
+'paragraph (2);'	1
+'paragraph (3),'	5
+'paragraph (4)'	1
+'paragraph (4),'	7
+'paragraph (4)--'	2
+'paragraph (4).'	1
+'paragraph (4);'	1
+'paragraph (5),'	2
+'paragraph is'	1
+'paragraph that'	1
+'paragraph'	6
+'paragraph, a'	3
+'paragraph, the'	1
+'paragraphs (1),'	1
+'part of'	1
+'participates in'	2
+'particular Internet'	2
+'particular.'	1
+'partnership, business'	1
+'partnership, other'	1
+'partnership,'	1
+'past.'	1
+'patches, stickers,'	1
+'patents, trademarks,'	1
+'payment account--'	1
+'payment network'	14
+'payment processing'	1
+'payment transaction.'	1
+'payment transactions'	3
+'payment transactions.'	2
+'payment'	9
+'penalty of'	2
+'penalty shall'	1
+'penalty'	1
+'perform or'	1
+'performance by'	1
+'performance of'	3
+'performance' refer'	1
+'performance, the'	1
+'performance--'	1
+'performance.''.'	1
+'performances been'	1
+'performances by'	1
+'performances lawfully;'	1
+'performances to'	1
+'performances'	3
+'performances, is'	1
+'performed by'	1
+'period at'	2
+'period of'	1
+'period'' and'	1
+'period, of'	2
+'period, which'	1
+'period,'	1
+'period; and'	1
+'perjury'	1
+'perjury, that'	1
+'permanent foreign'	1
+'permit the'	1
+'permit viewing'	1
+'person acting'	1
+'person authorized'	1
+'person convicted,'	1
+'person described'	2
+'person engaged'	1
+'person found'	1
+'person had'	1
+'person has'	1
+'person in'	2
+'person includes,'	1
+'person injured'	1
+'person is'	2
+'person knew'	1
+'person may'	1
+'person or'	1
+'person other'	3
+'person shall'	1
+'person under'	2
+'person who'	5
+'person with'	1
+'person'	1
+'person'' means--'	1
+'person's conduct'	1
+'person, for'	1
+'person, or'	2
+'person.--The term'	1
+'personal jurisdiction'	1
+'personam action'	3
+'personam.--If an'	1
+'personam.--The Attorney'	1
+'personnel ratings,'	1
+'personnel'	1
+'persons and'	1
+'persons in'	1
+'persons is'	1
+'persons or'	1
+'persons receiving'	1
+'persons who'	1
+'persons'	1
+'pertaining to'	1
+'petition the'	2
+'phone number,'	1
+'phonorecords of'	2
+'phonorecords'' and'	1
+'phonorecords, or'	3
+'physical or'	2
+'picture exhibition'	1
+'picture or'	1
+'picture'	1
+'picture, if,'	1
+'picture--'	1
+'placement of'	1
+'placement, that'	1
+'placements that'	2
+'placements'	1
+'plaintiff may'	1
+'plaintiff of'	1
+'plaintiff shall'	2
+'plaintiff shall,'	1
+'plaintiff who'	1
+'plaintiff'	2
+'plaintiff'' means,'	1
+'plaintiff, if'	1
+'plaintiff, with'	1
+'plaintiff.--A qualifying'	1
+'plaintiff.--The term'	1
+'pointers to'	1
+'policy and'	2
+'policy goals'	2
+'policy in'	1
+'policy interests'	1
+'policy priorities'	1
+'policy recommendations'	1
+'policy statements'	2
+'policy statements,'	1
+'policy'	1
+'portion of'	3
+'portion thereof'	7
+'portion thereof)'	2
+'portion thereof,'	22
+'portion thereof--'	1
+'portion thereof.'	4
+'portion'	5
+'portions of'	2
+'position before'	1
+'possession, or'	1
+'possible, but'	6
+'possible,'	2
+'postal and'	8
+'potential amendment'	1
+'potential benefit'	1
+'practicable'	1
+'practices, and'	1
+'predecessor or'	1
+'preliminary injunction,'	1
+'preliminary'	1
+'prepared for'	2
+'prescribe the'	1
+'prescribe, including'	1
+'prescribed in'	2
+'prescription medication'	1
+'prescription medication,'	1
+'prescription'''	1
+'prescription.--The term'	1
+'prescription; or'	1
+'press protected'	1
+'presumed to'	2
+'prevent U.S.'	1
+'prevent access'	2
+'prevent its'	3
+'prevent offenses'	1
+'prevent such'	2
+'prevent the'	2
+'prevent'	1
+'prevent, prohibit,'	2
+'prevent,'	1
+'previous domain'	1
+'previously adjudicated'	2
+'price that'	1
+'prices for'	1
+'primarily designed'	1
+'primarily on'	1
+'primarily'	1
+'primary postal'	2
+'prior approval'	2
+'prior restraint'	1
+'priorities and'	1
+'priorities of'	1
+'priorities set'	2
+'priorities shall'	1
+'priority countries.--In'	1
+'priority to'	1
+'private financial'	2
+'probability of'	1
+'probable cause'	1
+'procedure set'	1
+'procedures developed'	1
+'procedures for'	1
+'proceed under'	2
+'process from'	1
+'process in'	1
+'process server'	1
+'process to'	1
+'process, may'	1
+'process.'	2
+'process.--For purposes'	2
+'process.--The order'	1
+'processes to'	1
+'processing or'	1
+'product intended'	1
+'product or'	4
+'product'	1
+'program, a'	1
+'programs and'	1
+'programs conducted'	1
+'programs of'	1
+'programs shall'	1
+'prohibit, or'	3
+'prohibited by'	2
+'prohibited from'	1
+'promote prosperity,'	2
+'promote the'	1
+'promoted, its'	1
+'promoting, or'	1
+'promotion of'	1
+'promulgate the'	1
+'proper'	2
+'property and'	1
+'property as'	1
+'property attache'	2
+'property attaches'	7
+'property enforcement'	3
+'property enforcement'''	1
+'property enforcement.--The'	1
+'property globally,'	1
+'property in'	1
+'property industries'	1
+'property infringement'	1
+'property is'	2
+'property matters,'	1
+'property offenses'	1
+'property offenses;'	1
+'property related'	1
+'property right'	5
+'property rights'	11
+'property rights'''	1
+'property rights.--The'	1
+'property rights;'	1
+'property that'	2
+'property under'	1
+'property'	8
+'property'' if--'	1
+'property, a'	1
+'property, and'	3
+'property, including'	1
+'property, or'	1
+'property, the'	1
+'property,'	3
+'property.'	4
+'property.--'	1
+'property.--An ``Internet'	1
+'property; and'	1
+'property; or'	1
+'proprietary services,'	1
+'prosperity, creativity,'	2
+'protect U.S.'	2
+'protected under'	1
+'protection abroad'	1
+'protection in'	1
+'protection of'	4
+'protection, and'	1
+'protocol address'	2
+'protocol address.'	1
+'protocol address.--The'	3
+'protocol allocation'	1
+'protocol to'	1
+'protocol used'	1
+'protocol.'	1
+'protocol.--The term'	1
+'provide a'	1
+'provide access'	2
+'provide advertising'	1
+'provide appropriate'	1
+'provide for'	3
+'provide goods'	1
+'provide guidance'	1
+'provide or'	1
+'provide services'	2
+'provide such'	1
+'provide that'	1
+'provide the'	1
+'provide to'	1
+'provide'	3
+'provide, including'	1
+'provide--'	1
+'provided by'	1
+'provided for'	1
+'provided on'	2
+'provided to'	3
+'provided under'	2
+'provided'	2
+'provider and'	1
+'provider as'	1
+'provider based'	1
+'provider is'	1
+'provider of'	2
+'provider or'	10
+'provider shall'	6
+'provider taking'	1
+'provider under'	2
+'provider would'	2
+'provider'	3
+'provider'' means'	2
+'provider, Internet'	2
+'provider, payment'	2
+'provider.--'	1
+'provider.--The term'	1
+'providers.--'	3
+'providers.--Except in'	1
+'provides or'	1
+'provides the'	1
+'providing advertisements'	2
+'providing or'	4
+'providing to'	1
+'providing'	2
+'provision of'	3
+'provision to'	2
+'provisions and'	1
+'provisions of'	2
+'provisions or'	1
+'public for'	1
+'public health'''	1
+'public health.'	2
+'public health.--The'	1
+'public in'	3
+'public offerings.'	1
+'public performance'	3
+'public performance,'	1
+'public performance--'	1
+'public performances'	6
+'public performances,'	1
+'public relevant'	1
+'public'	2
+'public, if'	1
+'public, including'	1
+'public,'	1
+'public; and'	1
+'publicly accessible'	2
+'publicly available'	1
+'publicly'	2
+'publish procedures'	1
+'punishable under'	1
+'punished as'	1
+'punished in'	1
+'punishment to'	1
+'purchases, brokers,'	1
+'purpose of,'	2
+'purpose or'	2
+'purposes of'	11
+'purposes'', approved'	1
+'purposes.'	2
+'pursuant to'	22
+'pursue legal'	1
+'qualifying plaintiff'	7
+'qualifying plaintiff,'	1
+'qualifying plaintiff.--A'	1
+'qualifying'	2
+'query or'	2
+'questions, or'	1
+'raise capital'	1
+'raising capital'	1
+'rank in-mission'	1
+'ratings,'	1
+'re-registered by'	1
+'re-registered'	1
+'read as'	3
+'reason of'	2
+'reasonable basis'	2
+'reasonable belief'	1
+'reasonable consistency'	1
+'reasonable expectation'	1
+'reasonable measures'	1
+'reasonable measures,'	5
+'reasonable'	4
+'reasonably arising'	2
+'reasonably available;'	4
+'reasonably be'	1
+'reasonably believes'	1
+'reasonably designed'	4
+'reasonably sufficient'	2
+'reasonably'	7
+'receipt of'	2
+'receive had'	1
+'receive information'	1
+'receive notifications'	1
+'receive such'	1
+'received an'	1
+'received by'	1
+'receiving any'	1
+'receiving the'	1
+'receiving'	2
+'recent report'	2
+'recklessly causes'	2
+'recommendations of'	1
+'recommendations that'	1
+'recommendations to'	1
+'reconstituted at'	2
+'recording, if,'	1
+'reducing intellectual'	1
+'refer to'	1
+'referred to'	3
+'reflect--'	1
+'refuse to'	1
+'refuses to'	1
+'regarding foreign'	1
+'regarding internet'	1
+'regarding the'	1
+'region covered'	1
+'regional bureau'	1
+'regional internet'	2
+'regions referred'	1
+'registered or'	3
+'registered'	2
+'registrant of'	9
+'registrant, consents'	1
+'registrant, has'	1
+'registrant.'	1
+'registrar for'	1
+'registrar, acting'	1
+'registrar, domain'	1
+'registrar, registry,'	4
+'registration and'	1
+'registration authority'	4
+'registration authority,'	1
+'registrations, if'	2
+'registry to'	1
+'registry, or'	9
+'registry, regional'	1
+'regularly'	1
+'regulations, practices,'	1
+'related issues.'	1
+'related services'	3
+'relating to'	6
+'relating'	2
+'relations with'	1
+'relative to'	1
+'relevant directives'	1
+'relevant evidence'	1
+'relevant to'	1
+'relief determination'	2
+'relief is'	1
+'relief--'	1
+'relief.--'	1
+'rely in'	1
+'relying upon'	1
+'rem action'	2
+'rem under'	2
+'rem.--If through'	2
+'remedy to'	2
+'rendered in'	1
+'report containing'	1
+'report detailing'	1
+'report of'	1
+'report submitted'	1
+'report that'	1
+'report'	1
+'reports under'	1
+'representative of'	2
+'reproducing the'	1
+'reproduction or'	1
+'reproduction, distribution,'	1
+'reproductions, distributions,'	4
+'reproductions,'	1
+'require compliance'	1
+'require that'	2
+'require the'	1
+'required by'	4
+'required to'	2
+'required--'	1
+'requirement in'	1
+'requirement, or'	1
+'requirements of'	2
+'requirements; or'	1
+'requires such'	2
+'research and'	1
+'reserve component;'	1
+'reserve'	1
+'resident or'	1
+'residents of'	1
+'resides or'	1
+'resides'	1
+'resolution; or'	1
+'resolutions not'	1
+'resolve to'	2
+'resolving to'	1
+'resources and'	1
+'resources are'	1
+'resources, all'	1
+'resources, the'	1
+'resources.'	1
+'resources.--The Secretary'	1
+'respect to'	16
+'respectively, any'	1
+'respectively, of'	1
+'response in'	1
+'response to'	2
+'response.--'	1
+'responsibilities of'	1
+'restraining order,'	2
+'restraint on'	1
+'restrict access'	2
+'restricted by'	1
+'restriction on'	2
+'result in'	2
+'result of'	2
+'result'	1
+'result, link,'	1
+'results'	1
+'results, links,'	1
+'results,'	2
+'retail price'	1
+'retail value'	3
+'retail'	1
+'returns to'	1
+'revenue that'	1
+'review, and'	1
+'review, consider'	1
+'right exists,'	1
+'right harmed'	4
+'right has'	1
+'right'	1
+'rights abroad.'	1
+'rights and'	2
+'rights holders'	1
+'rights in'	5
+'rights of'	4
+'rights violations'	1
+'rights'	3
+'rights'' means'	1
+'rights.'	1
+'rights.--The term'	1
+'rights;'	1
+'rule 4(f)'	2
+'rule 65'	2
+'sale to'	2
+'sale, distribution,'	1
+'sanction, consistent'	1
+'scope of'	1
+'search engine'	1
+'search engine,'	1
+'search engine.--The'	1
+'search engines.--A'	1
+'search result,'	1
+'search results,'	2
+'search'	3
+'searches, crawls,'	1
+'secret outside'	1
+'secret that'	1
+'secret to'	1
+'secret;'	1
+'secrets and'	1
+'secrets outside'	1
+'secrets transferred'	1
+'secrets.'	1
+'section 102(c)(2),'	1
+'section 103(b)'	1
+'section 103(d)(2),'	1
+'section 106'	1
+'section 1201'	1
+'section 182(a)'	1
+'section 182(a)(1)'	3
+'section 182(a)(1);'	1
+'section 1831'	1
+'section 201(g)(1)'	1
+'section 201(g)(2)'	1
+'section 21(a)'	1
+'section 2318,'	1
+'section 2319'	1
+'section 2320'	1
+'section 2320(a)'	3
+'section 2339D(c);'	1
+'section 2B5.3'	1
+'section 3'	1
+'section 301'	3
+'section 301(i)'	1
+'section 302'	1
+'section 309(e)(2)(A)'	1
+'section 45'	1
+'section 501'	2
+'section 502'	1
+'section 503(b)'	1
+'section 506(a)'	1
+'section 512(k)(1)'	1
+'section 5362(5)'	1
+'section 735(4)'	1
+'section 994(p)'	1
+'section accordingly.'	1
+'section as'	1
+'section of'	1
+'section on'	1
+'section shall'	1
+'section to'	2
+'section was'	1
+'section with'	1
+'section'	9
+'section, a'	1
+'section, the'	4
+'section--'	2
+'section. Such'	1
+'section.'	2
+'section:'	3
+'sections 107'	1
+'security application,'	1
+'security functions;'	1
+'security'	3
+'seeking to'	1
+'seizure in'	1
+'selection that'	1
+'selection.'	1
+'selling, dispensing,'	2
+'sells, purchases,'	1
+'semicolon; and'	1
+'semicolon;'	1
+'send a'	2
+'sentencing guidelines.'	1
+'serious bodily'	2
+'serious nature'	1
+'serve a'	2
+'serve as'	2
+'served as'	1
+'served in'	2
+'served under'	2
+'served with'	15
+'served, or'	3
+'server has'	1
+'server lookups,'	1
+'server on'	1
+'server or'	1
+'server that'	1
+'server'' means'	2
+'server.'	1
+'server.--The term'	2
+'server; or'	1
+'serves advertising'	3
+'serves, inserts,'	1
+'service and'	2
+'service by'	1
+'service described'	1
+'service designed'	2
+'service fails'	1
+'service from'	6
+'service has'	2
+'service is'	5
+'service knows,'	1
+'service made'	1
+'service means'	1
+'service meets'	1
+'service of'	2
+'service or'	1
+'service provider'	5
+'service provider,'	2
+'service shall'	5
+'service that'	5
+'service to'	1
+'service under'	1
+'service'	3
+'service'' means'	1
+'service, advertiser,'	2
+'service, file'	1
+'service, including'	1
+'service, independently,'	1
+'service,'	1
+'service--'	1
+'service.'	5
+'service.--A copy'	1
+'service.--The term'	1
+'services and'	1
+'services are'	1
+'services for'	1
+'services from'	1
+'services in'	1
+'services to'	2
+'services to,'	3
+'services under'	1
+'services, infrastructure,'	1
+'services, or'	2
+'services,'	3
+'services.'	1
+'services.--'	3
+'services.--Except in'	1
+'serving abroad.'	1
+'set forth'	4
+'severability clauses.'	1
+'shall affect'	2
+'shall appoint'	1
+'shall assist'	1
+'shall be'	26
+'shall be,'	2
+'shall conduct'	1
+'shall consider'	1
+'shall constitute'	2
+'shall designate'	1
+'shall determine'	2
+'shall ensure'	3
+'shall focus'	1
+'shall give'	1
+'shall identify'	1
+'shall include'	1
+'shall inform'	2
+'shall lie'	3
+'shall maintain'	2
+'shall not'	11
+'shall prescribe'	1
+'shall provide'	1
+'shall require'	1
+'shall send'	2
+'shall serve'	2
+'shall solicit'	1
+'shall state'	1
+'shall submit'	1
+'shall take'	8
+'shall work,'	1
+'shall'	6
+'shall, and'	2
+'shall, if'	1
+'shall, not'	2
+'shall--'	2
+'should be'	1
+'should face'	1
+'should know,'	1
+'should not'	1
+'should'	3
+'show cause'	1
+'show that'	1
+'show'	1
+'showing by'	1
+'showing shall'	2
+'showing that'	2
+'shown by'	3
+'signatory is'	1
+'signature of'	2
+'significant component'	1
+'significant harm'	2
+'significant harm--'	1
+'significant infringing'	1
+'similar'	1
+'similarly situated'	1
+'similarly'	1
+'simple misappropriation'	1
+'site (or'	3
+'site and'	2
+'site consistent'	1
+'site dedicated'	13
+'site does'	1
+'site for'	1
+'site has'	2
+'site identified'	2
+'site in'	1
+'site is'	8
+'site offering'	1
+'site or'	20
+'site or,'	1
+'site previously'	2
+'site specified'	1
+'site subject'	2
+'site that'	8
+'site to'	1
+'site were'	1
+'site with'	1
+'site would,'	1
+'site'	5
+'site'' if--'	1
+'site'' means'	3
+'site'''	1
+'site, a'	1
+'site, if'	1
+'site, in'	1
+'site, includes,'	1
+'site, or'	25
+'site, or,'	1
+'site, shall'	1
+'site, to'	3
+'site, via'	1
+'site,'	3
+'site--'	3
+'site.'	11
+'site.--The term'	4
+'site; and'	1
+'site; or'	2
+'site;'	3
+'sites available'	1
+'sites dedicated'	3
+'sites that'	1
+'sites.'	2
+'situated entities'	2
+'smallest applicable'	1
+'so comply.'	1
+'so regularly'	1
+'so'	1
+'so; or'	1
+'software to'	1
+'software, systems,'	1
+'sole legal'	2
+'solely on'	1
+'solicit and'	1
+'soon as'	1
+'sought under'	1
+'sound'	1
+'specific facts'	1
+'specific policy'	1
+'specific priorities'	1
+'specification issued'	1
+'specified in'	10
+'speech or'	1
+'spite of'	1
+'sponsored search'	4
+'staff at'	1
+'stakeholders, shall'	1
+'standard, requirement,'	1
+'standards or'	1
+'standards' relating'	1
+'state that'	1
+'statement that'	3
+'statement under'	1
+'statements (including'	1
+'statements applicable'	1
+'statements to--'	1
+'statements, or'	1
+'states person.--The'	1
+'states.--The term'	1
+'stating that'	1
+'statutes;'	1
+'steps taken'	1
+'steps to'	1
+'stickers,'	1
+'stock for'	1
+'stolen trade'	1
+'stolen'	1
+'stop providing'	1
+'striking ``$10,000,000'''	1
+'striking ``15'	1
+'striking ``;'	1
+'striking ``and'''	1
+'striking ``during'	1
+'striking ``if'	1
+'striking ``not'	1
+'striking ``of'	1
+'striking ``under'	1
+'striking paragraph'	1
+'striking the'	2
+'study conducted'	1
+'study on'	1
+'study.'	2
+'study.--The Register'	1
+'subdomain designation'	1
+'subject to'	26
+'subject'	1
+'submit to'	3
+'submitted under'	1
+'subparagraph (A)'	7
+'subparagraph (A)(i)'	2
+'subparagraph (A).'	1
+'subparagraph (B)'	2
+'subparagraph (B),'	3
+'subparagraph shall'	1
+'subparagraph'	3
+'subparagraph, to'	1
+'subparagraph. Such'	1
+'subparagraphs (A)'	1
+'subscribers located'	1
+'subsection (a)'	1
+'subsection (a)'';'	1
+'subsection (a)(1)'	2
+'subsection (a)(1).'	2
+'subsection (b)'	4
+'subsection (b)(1),'	2
+'subsection (b)(2),'	1
+'subsection (b)(4)'	1
+'subsection (b)(4)--'	1
+'subsection (b)(4);'	1
+'subsection (b)(5),'	1
+'subsection (b),'	4
+'subsection (c)'	6
+'subsection (c),'	2
+'subsection (c)--'	1
+'subsection (d)'	1
+'subsection (d)(4),'	1
+'subsection (d),'	1
+'subsection (e),'	1
+'subsection (e).'	1
+'subsection (f),'	3
+'subsection (f)--'	1
+'subsection (f).'	1
+'subsection and'	1
+'subsection by'	1
+'subsection includes'	1
+'subsection or'	4
+'subsection shall'	9
+'subsection to'	1
+'subsection without'	1
+'subsection'	8
+'subsection, and'	2
+'subsection, evidence'	1
+'subsection, or'	1
+'subsection, the'	5
+'subsection, to'	1
+'subsection,'	2
+'subsection--'	1
+'subsection. Such'	1
+'subsection.'	8
+'subsection:'	1
+'subsection; and'	1
+'subsequent notice'	1
+'subsequent'	1
+'subsidiary or'	1
+'substantially similar'	1
+'substantially the'	1
+'substantially'	2
+'succeeded in'	1
+'successor thereto))'	1
+'successor'	1
+'such Internet'	6
+'such a'	2
+'such action'	1
+'such action.'	1
+'such addresses'	6
+'such an'	1
+'such as'	1
+'such conduct'	2
+'such conforming'	1
+'such corporation,'	1
+'such country;'	1
+'such court'	1
+'such domain'	1
+'such entity'	6
+'such entity,'	2
+'such entity.'	2
+'such foreign'	2
+'such form'	2
+'such goods'	5
+'such information'	1
+'such internet'	1
+'such misrepresentation'	1
+'such order'	4
+'such order,'	5
+'such order.'	2
+'such order;'	2
+'such owner'	2
+'such person'	4
+'such person,'	1
+'such portion'	4
+'such portions'	2
+'such product'	1
+'such protocol.'	1
+'such provider'	1
+'such query'	1
+'such reproductions,'	1
+'such requirements;'	1
+'such resolution;'	1
+'such review,'	1
+'such rights'	1
+'such section'	1
+'such service.'	1
+'such site'	8
+'such site,'	3
+'such site.'	2
+'such term'	1
+'such time'	5
+'such title'	1
+'such title.'	1
+'such'	15
+'sufficient for'	1
+'sufficient to'	3
+'suit.--Other than'	2
+'supplement an'	1
+'support for'	3
+'support of'	2
+'support the'	1
+'support--'	1
+'suspend its'	3
+'suspend, or'	4
+'suspended, or'	2
+'suspension, expiration,'	1
+'suspension,'	1
+'switched internetwork'	1
+'system server'''	1
+'system server.'	1
+'system server.--The'	1
+'system to'	1
+'systems, or'	1
+'table of'	2
+'take action'	3
+'take any'	1
+'take technically'	7
+'take'	3
+'taken as'	1
+'taken by'	4
+'taken in'	2
+'taken pursuant'	1
+'taken to'	1
+'taken,'	1
+'takes action'	3
+'takes'	1
+'taking actions'	1
+'taking an'	2
+'taking any'	1
+'taking voluntary'	2
+'taking, or'	1
+'technical assistance'	3
+'technical limitation'	2
+'technical means'	2
+'technical'	1
+'technically feasible'	6
+'technically'	2
+'technologies.'	1
+'telephone number'	1
+'temporary restraining'	2
+'term ``Intellectual'	2
+'term ``Internet'	6
+'term ``Internet'''	1
+'term ``Lanham'	1
+'term ``U.S.-directed'	1
+'term ``USTR'''	1
+'term ``United'	2
+'term ``adulterated'''	1
+'term ``domain'	2
+'term ``domestic'	2
+'term ``drug'''	1
+'term ``foreign'	3
+'term ``including'''	1
+'term ``intellectual'	1
+'term ``misbranded'''	1
+'term ``payment'	1
+'term ``qualifying'	1
+'term ``service'	1
+'term ``valid'	1
+'term `counterfeit'	1
+'term `critical'	1
+'term `drug'	1
+'term `falsely'	1
+'term `final'	1
+'term `use'	2
+'term `work'	1
+'term in'	10
+'term is'	2
+'term of'	2
+'term'	5
+'terms ``Director'	1
+'terms ``owner'''	1
+'terms `reproduction','	1
+'terms of'	1
+'terms, concepts,'	1
+'territory of'	1
+'text of'	1
+'text shall'	1
+'than $1,000,000'	1
+'than $1,000;'	1
+'than $15,000,000,'	1
+'than $15,000,000.'	3
+'than $2,500;'';'	2
+'than $5,000,000'	2
+'than $5,000,000''.'	1
+'than $5,000,000,'	1
+'than $5,000,000.'	1
+'than $500,000'''	1
+'than 10'	1
+'than 180'	1
+'than 2'	1
+'than 20'	2
+'than 24'	1
+'than 30'	1
+'than 6'	1
+'than 7'	1
+'than an'	8
+'than as'	1
+'than in'	4
+'than the'	3
+'than'	4
+'than, or'	2
+'that Act'	2
+'that Internet'	2
+'that a'	3
+'that address'	1
+'that adequate'	1
+'that an'	3
+'that are'	5
+'that clause'	3
+'that commits'	2
+'that compliance'	1
+'that consists'	1
+'that constitute'	2
+'that contracts'	3
+'that directly'	1
+'that domain'	2
+'that each'	1
+'that endangers'	3
+'that engages'	1
+'that follows'	3
+'that for'	1
+'that has'	4
+'that have'	1
+'that if'	1
+'that immediate'	1
+'that includes'	1
+'that initiates'	1
+'that involve'	1
+'that is'	46
+'that it'	1
+'that its'	2
+'that knowingly'	4
+'that may'	3
+'that occurs'	1
+'that operates'	1
+'that operator'	1
+'that otherwise'	1
+'that participates'	1
+'that person'	1
+'that persons'	1
+'that provide'	3
+'that requires'	2
+'that subsection.'	2
+'that such'	3
+'that term'	11
+'that the'	26
+'that uses'	1
+'that was'	1
+'that when'	1
+'that would'	1
+'that'	17
+'that--'	3
+'the 1st'	1
+'the Act'	1
+'the Armed'	3
+'the Attorney'	10
+'the Chairman'	1
+'the Commission'	1
+'the Commission's'	1
+'the Committees'	2
+'the Constitution.'	1
+'the Copyright'	2
+'the Federal'	13
+'the Guidelines'	1
+'the Guidelines,'	1
+'the House'	1
+'the Intellectual'	5
+'the Internet'	39
+'the Internet,'	1
+'the Judiciary'	3
+'the Lanham'	2
+'the Pacific.'	2
+'the Patent'	2
+'the Prioritizing'	4
+'the Register'	4
+'the Secretary'	9
+'the Securities'	1
+'the Senate'	3
+'the Sentencing'	1
+'the Trade'	4
+'the Transmission'	1
+'the U.S.'	1
+'the U.S.-directed'	3
+'the Under'	1
+'the United'	47
+'the Untied'	1
+'the ``Lanham'	1
+'the ``Stop'	1
+'the absence'	1
+'the action'	1
+'the activities'	7
+'the adequacy'	1
+'the advancement'	1
+'the advisory'	1
+'the agent.'	1
+'the annual'	1
+'the applicable'	5
+'the application'	3
+'the appointment,'	1
+'the attache'	1
+'the attaches'	1
+'the attaches,'	1
+'the authorization'	4
+'the basis'	2
+'the case'	7
+'the claim'	1
+'the commencement'	2
+'the commission'	1
+'the copies'	2
+'the copyright'	8
+'the corresponding'	3
+'the countries'	2
+'the court'	14
+'the court,'	2
+'the court.'	1
+'the criteria'	1
+'the currency'	1
+'the date'	11
+'the defendant'	4
+'the designated'	1
+'the development,'	1
+'the distribution'	1
+'the domain'	15
+'the effectiveness'	1
+'the enactment'	2
+'the end'	2
+'the enforcement'	2
+'the entity'	6
+'the entity's'	3
+'the entity,'	1
+'the entity--'	1
+'the evidence'	1
+'the exclusive'	1
+'the exercise'	1
+'the existence'	1
+'the extent'	8
+'the following'	4
+'the following:'	5
+'the foreign'	14
+'the general'	1
+'the good'	1
+'the greater'	1
+'the greatest'	1
+'the heads'	3
+'the holder'	4
+'the holder,'	1
+'the host'	1
+'the individual'	1
+'the information'	1
+'the infringement'	1
+'the infringer'	1
+'the intellectual'	6
+'the interests'	3
+'the issuance'	2
+'the jurisdiction'	2
+'the laws'	2
+'the limitation'	1
+'the manner'	1
+'the matter'	1
+'the meaning'	10
+'the means'	2
+'the misrepresentation.'	1
+'the modification,'	2
+'the most'	2
+'the motion'	2
+'the need'	1
+'the notification'	5
+'the notification,'	2
+'the notification.'	1
+'the notification;'	2
+'the object'	1
+'the objectives'	1
+'the obligations'	3
+'the offender'	2
+'the offense'	2
+'the offense,'	1
+'the offense.''.'	1
+'the offenses'	1
+'the offering'	1
+'the official'	1
+'the operator'	2
+'the order'	22
+'the order,'	10
+'the order;'	7
+'the organization'	1
+'the other'	1
+'the owner'	8
+'the owner's'	1
+'the owner,'	1
+'the past.'	1
+'the payment'	6
+'the penalty'	2
+'the performance'	1
+'the period'	2
+'the person'	5
+'the person's'	1
+'the placement'	1
+'the policy'	3
+'the postal'	5
+'the primary'	2
+'the prior'	1
+'the procedure'	1
+'the product'	1
+'the proprietary'	1
+'the protection'	4
+'the provider'	1
+'the provision'	1
+'the provisions'	1
+'the public'	7
+'the public,'	3
+'the public;'	1
+'the purpose'	1
+'the qualifying'	3
+'the reasonable'	1
+'the registrant'	3
+'the registrar,'	2
+'the registration'	1
+'the reproduction'	1
+'the reproductions,'	1
+'the requirements'	1
+'the reserve'	1
+'the responsibilities'	1
+'the results'	1
+'the right'	1
+'the rights'	1
+'the sale,'	1
+'the scope'	1
+'the serious'	1
+'the server'	1
+'the signatory'	1
+'the significant'	1
+'the simple'	1
+'the site'	2
+'the sole'	2
+'the specific'	1
+'the stolen'	2
+'the study'	1
+'the subject'	1
+'the technical'	1
+'the term'	8
+'the terms'	1
+'the text'	1
+'the theft'	5
+'the time'	2
+'the total'	4
+'the trade'	1
+'the training'	2
+'the use'	5
+'the user'	1
+'the value'	1
+'the views'	1
+'the work'	3
+'the work;'	1
+'the'	111
+'theft of'	22
+'theft'	1
+'their licensees,'	1
+'there is'	6
+'thereby avoided)''.'	1
+'thereby.'	1
+'thereof does'	1
+'thereof is'	3
+'thereof that'	3
+'thereof) from'	1
+'thereof) that'	1
+'thereof)'	1
+'thereof, a'	1
+'thereof, dedicated'	1
+'thereof, for'	2
+'thereof, if'	1
+'thereof, is'	1
+'thereof, or'	2
+'thereof, shall'	3
+'thereof, specified'	1
+'thereof, that'	9
+'thereof, to'	1
+'thereof, via'	1
+'thereof,'	6
+'thereof--'	1
+'thereof.'	4
+'thereof; and'	1
+'thereto))'	1
+'thereto, the'	1
+'these infringers'	1
+'they are'	1
+'this Act'	2
+'this Act,'	3
+'this paragraph'	3
+'this paragraph,'	3
+'this section'	10
+'this section,'	5
+'this section--'	2
+'this section.'	2
+'this section:'	3
+'this subparagraph,'	1
+'this subsection'	15
+'this subsection,'	10
+'this subsection--'	1
+'this subsection.'	7
+'this subsection;'	1
+'this title'	2
+'this title.'	1
+'this title:'	1
+'this title;'	3
+'this'	12
+'those countries'	1
+'those countries,'	1
+'those countries.'	1
+'those measures'	1
+'those with'	1
+'those'	2
+'though the'	1
+'through 122,'	1
+'through due'	2
+'through its'	1
+'through the'	2
+'through which'	2
+'time after'	2
+'time as'	6
+'time in'	2
+'time of'	2
+'time on'	1
+'timely delivery'	1
+'timely disposition'	1
+'timely'	1
+'times the'	1
+'title 17,'	9
+'title 17;'	1
+'title 18,'	11
+'title 28,'	1
+'title 31,'	1
+'title I'	1
+'title and'	1
+'title is'	1
+'title to'	1
+'title.'	2
+'title:'	1
+'title; and'	1
+'title; table'	1
+'title;'	2
+'to Congress'	1
+'to Congress.--The'	2
+'to Theft'	1
+'to a'	12
+'to accounts'	2
+'to act'	2
+'to adapt'	1
+'to address'	1
+'to adopt'	1
+'to advance'	2
+'to amend'	3
+'to an'	5
+'to any'	4
+'to as'	1
+'to assist'	1
+'to avoid'	1
+'to be'	13
+'to believe'	2
+'to bring'	1
+'to carry'	3
+'to cause'	4
+'to cause--'	1
+'to cease'	1
+'to circumvent'	2
+'to clearly'	1
+'to communicate'	1
+'to compel'	1
+'to complete'	1
+'to comply'	9
+'to conform'	1
+'to congress.--Not'	1
+'to contact'	1
+'to continue'	1
+'to coordinate'	1
+'to countries'	1
+'to critical'	1
+'to deceive,'	1
+'to digital'	1
+'to do'	1
+'to domain'	1
+'to each'	1
+'to effect'	2
+'to emerging'	1
+'to enable'	2
+'to enforce'	3
+'to enjoin'	1
+'to enlarge'	1
+'to ensure'	1
+'to exclusive'	1
+'to file'	1
+'to find'	2
+'to foreign'	1
+'to foster'	1
+'to have'	1
+'to honor'	1
+'to identify'	1
+'to impose'	2
+'to in'	1
+'to intellectual'	3
+'to internet'	1
+'to its'	1
+'to modify'	1
+'to modify,'	4
+'to monitor.--A'	2
+'to monitor.--An'	2
+'to national'	1
+'to notorious'	1
+'to offer'	3
+'to operate,'	1
+'to or'	10
+'to other'	1
+'to paragraph'	7
+'to perform'	1
+'to persons'	1
+'to prevent'	7
+'to prevent,'	3
+'to priority'	1
+'to proceed'	1
+'to protect'	2
+'to provide'	7
+'to pursue'	1
+'to raise'	1
+'to read'	3
+'to receive'	4
+'to require'	1
+'to residents'	1
+'to resolve'	2
+'to section'	1
+'to seizure'	1
+'to sentencing'	1
+'to show'	2
+'to subparagraph'	2
+'to subsection'	3
+'to such'	9
+'to support'	1
+'to take'	5
+'to that'	2
+'to the'	66
+'to theft'	15
+'to this'	9
+'to traffic'	1
+'to users'	3
+'to which'	6
+'to'	53
+'to, a'	1
+'to, from,'	3
+'to--'	4
+'to.'	1
+'total economic'	1
+'total fair'	1
+'total retail'	4
+'total'	1
+'trade secret'	3
+'trade secret;'	1
+'trade secrets'	2
+'trade secrets.'	1
+'trade'	1
+'trademarks used'	1
+'trademarks, other'	1
+'traffic in'	2
+'traffics in'	1
+'traffics or'	2
+'trained for'	1
+'training and'	4
+'training'	1
+'transaction shall'	1
+'transaction.'	1
+'transactions described'	1
+'transactions involving'	2
+'transactions'	1
+'transactions.'	2
+'transferred outside'	1
+'transferred'	1
+'transmission, during'	1
+'transmission, of'	2
+'transmit the'	1
+'transmits or'	1
+'transmits trade'	1
+'type of'	1
+'type or'	1
+'u.s. property.--'	1
+'u.s. property.--An'	1
+'unable to'	2
+'unauthorized by'	2
+'unauthorized distribution'	3
+'unconstitutional, the'	1
+'under any'	1
+'under other'	1
+'under paragraph'	16
+'under paragraphs'	1
+'under penalty'	1
+'under section'	18
+'under subparagraph'	7
+'under subsection'	25
+'under such'	2
+'under that'	1
+'under the'	1
+'under this'	33
+'under title'	1
+'under'	20
+'undertaking any'	2
+'union that'	1
+'unique online'	1
+'unreasonable economic'	2
+'upon foreign'	1
+'use in'	2
+'use in,'	1
+'use in--'	1
+'use of'	5
+'use other'	2
+'use to'	1
+'used by'	16
+'used for'	2
+'used in'	2
+'used to'	4
+'user a'	1
+'user query'	1
+'users in'	1
+'users located'	2
+'users or'	3
+'users'	1
+'users.--An entity'	1
+'users.--Except as'	1
+'uses a'	1
+'uses'	2
+'using such'	1
+'using the'	1
+'using'	1
+'vacate such'	2
+'vacate'	2
+'vacated.'	2
+'vacation of'	2
+'valid prescription;'	1
+'value may'	1
+'value of'	6
+'verifies, clears,'	1
+'via the'	5
+'vicarious'	1
+'viewable form'	1
+'viewing in'	1
+'viewing outside'	1
+'viewing, or'	1
+'views and'	1
+'violate industry'	1
+'violation and'	1
+'violation of'	7
+'violations of'	2
+'violations punishable'	1
+'violations'	1
+'voluntarily blocking'	1
+'voluntary action'	2
+'was committed--'	1
+'was compromised,'	1
+'was intended'	1
+'was received'	1
+'was referred'	1
+'was'	1
+'was, a'	1
+'was, an'	1
+'were a'	1
+'what information'	1
+'when a'	1
+'when the'	1
+'when used'	1
+'where an'	1
+'where such'	1
+'where the'	3
+'where'	1
+'whether notorious'	2
+'whether the'	4
+'whether--'	1
+'which a'	5
+'which access'	1
+'which action'	1
+'which have'	2
+'which is'	3
+'which the'	13
+'which was'	1
+'who are'	1
+'who commits'	2
+'who is'	2
+'who knowingly'	1
+'who may'	1
+'who provided'	1
+'who willfully'	1
+'who'	2
+'whom relief'	1
+'whose activities'	1
+'whose'	1
+'why an'	1
+'why the'	1
+'will accept'	1
+'will be'	1
+'will comply'	1
+'will not'	1
+'will result'	1
+'willful infringement'	1
+'willfully certified'	1
+'willfully failed'	2
+'willfully for'	1
+'willfully infringes'	1
+'willfully provides'	1
+'willfully'	1
+'willfulness requirement'	1
+'with USTR's'	1
+'with United'	1
+'with a'	16
+'with an'	3
+'with and'	1
+'with appropriate'	2
+'with authority'	1
+'with clause'	3
+'with compelling'	1
+'with guidance'	1
+'with individual'	1
+'with its'	1
+'with orders'	1
+'with other'	2
+'with prior'	1
+'with respect'	12
+'with rule'	1
+'with subparagraph'	1
+'with subsection'	2
+'with such'	4
+'with that'	2
+'with the'	30
+'with this'	6
+'with users.--An'	1
+'with users.--Except'	1
+'with which'	1
+'with'	12
+'with, or'	2
+'within 5'	7
+'within a'	3
+'within each'	1
+'within such'	6
+'within the'	4
+'within'	3
+'without a'	1
+'without incurring'	1
+'without'	1
+'work being'	1
+'work for'	1
+'work has'	1
+'work have'	1
+'work was'	1
+'work with'	1
+'work, a'	1
+'work, by'	1
+'work, in'	1
+'work, or'	1
+'work; and'	1
+'works in'	1
+'works or'	1
+'works), as'	1
+'works, during'	2
+'works, or'	1
+'works, when'	1
+'would be'	1
+'would complete'	2
+'would have'	2
+'would, by'	1
+'wrappers, badges,'	1
+'written communication'	2
+'years after'	1
+'years or'	2
+'years'' and'	1
+'years'';'	1
+'years, or'	4
