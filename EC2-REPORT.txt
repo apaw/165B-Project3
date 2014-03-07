@@ -1,0 +1,6 @@
+# of Map Output Records: 12,379
+# of Reduce Input Records: 6,780
+
+As we can see, the number of map output records is nearly twice the number of reduce input records. Why is that?
+
+To break it down further, apparently there were two map tasks (one had 6,164 map output records, and the other 6,215) and one reduce task (6,780 reduce input records). It should also be noted that the number of combine input records is in fact the same as the map output records - this seems to imply that there's a degree of combining (aka, mini-reducing) before the mapped results are tossed into the formal reducer(s). We can observe this further by looking into the individual tasks; for instance, in one mapper task, we found that of 6,215 output records, ultimately 3,676 of them were sent off to the reducer as input records (after all this reorganizing and combining business). As we learned in class, this is most likely used for optimization (avoiding bottlenecks if there's a stall from one of the mappers, and so on).
