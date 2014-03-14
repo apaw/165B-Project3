@@ -29,14 +29,16 @@ import org.apache.hadoop.util.*;
 		else {
 		 word.set('\'' + tokenizer.nextToken() + '\'');
 		}
- 	         output.collect(word, word);
+ 	         output.collect(value, value);
  	       }
  	     }
  	   }
  	
- 	   public static class Reduce extends MapReduceBase implements Reducer<Text, Text, Text, String> {
- 	     public void reduce(Text key, Iterator<Text> word, OutputCollector<Text, String> output, Reporter reporter) throws IOException {
- 	       output.collect(key, "none");
+ 	   public static class Reduce extends MapReduceBase implements Reducer<Text, Text, Text, Text> {
+ 	     public void reduce(Text key, Iterator<Text> word, OutputCollector<Text, Text> output, Reporter reporter) throws IOException {
+ 	       Text word1 = new Text();
+ 	       word1.set("\"" + "none" + "\"");
+ 	       output.collect(key, word1);
  	     }
  	   }
  	
