@@ -35,11 +35,31 @@ import org.apache.hadoop.util.*;
  	   }
  	
  	   public static class Reduce extends MapReduceBase implements Reducer<Text, Text, Text, Text> {
+ 
+   	    private Text word1 = new Text();
+   	    private Text word2 = new Text();
+   	    private Text werd1 = new Text();
+   	    private Text werd2 = new Text();
+
  	     public void reduce(Text key, Iterator<Text> word, OutputCollector<Text, Text> output, Reporter reporter) throws IOException {
- 	       Text word1 = new Text();
+ 	    
  	       word1.set("\"" + "none" + "\"");
  	       output.collect(key, word1);
- 	     }
+
+	    StringTokenizer itr1 = new StringTokenizer(word.toString());
+        StringTokenizer itr2 = new StringTokenizer(word.toString());
+
+        while(itr1.hasMoreTokens()) {
+        	werd1.set(itr1.nextToken());
+        	while(itr2.hasMoreTokens()) {
+        		werd2.set(itr2.nextToken());
+ 	       		if(werd1 != werd2) //prevent duplicates {
+ 	       			word2.set(werd1 + " " + werd2);
+ 	       			output.collect(word2, key);
+ 	       		}
+ 	       	}
+ 	       }
+ 	     
  	   }
  	
  	   public static void main(String[] args) throws Exception {
