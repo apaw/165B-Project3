@@ -11,7 +11,7 @@ for line in data_file:
 	match = next(grammar.scanString(buffer), None)
 	while match:
 		tokens, start, end = match
-		if (tokens[0] < tokens[1]):
+		if (int(tokens[0]) < int(tokens[1])):
 			print tokens[0] + ' ' + tokens[1]
 		buffer = buffer[end:]
 		match = next(grammar.scanString(buffer), None)
