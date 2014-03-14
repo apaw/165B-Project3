@@ -88,9 +88,9 @@ import org.apache.hadoop.util.*;
  			public void map(LongWritable key, Text value, OutputCollector<Text, Text> output, Reporter reporter) throws IOException {
 				String line = value.toString();
 				StringTokenizer tokenizer = new StringTokenizer(line);
-				if (tokenizer.hasMoreTokens()) {
-					tokenizer.nextToken();
-				}
+				//if (tokenizer.hasMoreTokens()) {
+				//	tokenizer.nextToken();
+				//}
 				if (tokenizer.hasMoreTokens()) {
 					z.set(tokenizer.nextToken());
 				}
@@ -117,15 +117,15 @@ import org.apache.hadoop.util.*;
 
 	 	   			String line = value.toString();
  	       			StringTokenizer tokenizer = new StringTokenizer(line);
-					if (tokenizer.hasMoreTokens()) {
-						tokenizer.nextToken();
-					}
+					//if (tokenizer.hasMoreTokens()) {
+				//		tokenizer.nextToken();
+				//	}
 					if (tokenizer.hasMoreTokens()) {
 						z.set(tokenizer.nextToken());
 					}
 
 					String tmp = key + "," + z; //key is xy
-					Coord.set(tmp);
+					Coord.set(key + "," + z);
 
 	 	    		output.collect(Coord, out);
 	 	    	}
