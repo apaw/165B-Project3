@@ -1,0 +1,20 @@
+Top Ten Nodes
+
+1) Node 136: 17744 triangles
+2) Node 195: 15642 triangles
+3) Node 76: 13767 triangles
+4) Node 370: 13671 triangles
+5) Node 273: 13401 triangles
+6) Node 1028: 13064 triangles
+7) Node 416: 11957 triangles
+8) Node 292: 11415 triangles
+9) Node 140: 11265 triangles
+10) Node 175: 10775 triangles
+
+Using the nodes from our TriangleCounter/NodeIterator on Hadoop, we then used a script that:
+
+1) replaced the commas present in our original output file with spaces
+2) ran the wordcount job on our modified file with Hadoop, to count the number of instances of each node
+3) sorted the output of the wordcount file by the number of instances for each node
+
+The generated and sorted file is also included as node_counts.txt.

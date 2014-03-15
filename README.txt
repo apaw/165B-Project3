@@ -8,16 +8,15 @@ PAW, Alicia
 
 Files Included:
 
-- BigramCount.java - The bigram counter source code
-- BigramCount_output.txt - Output from Hadoop of the bigram counter
-- WordCount_output.txt - Output from Hadoop of the word counter
-- BigramCount.jar - The compiled jar from the source code.
-- TriangleCount.java - The triangle counter source code
-- output.txt - The output from Hadoop of the triangle counter
+- TriangleCount.java: Our triangle count code.
+- enron.txt: Our normalized enron email data. While you don't have to use this, the instructions below assume that it will.
+- TopTenNodes.txt: A list of the ten most frequently occuring nodes from our triangle, and the explanation of our procedure.
+- node_counts.txt: Just for your reference, this is the node count file we generated to determine the top ten nodes, sorted from decreasing -> increasing frequency.
+- Runtimes_Graph: graph of runtimes for 2-,4-,6- node clusters.
 
 ---
 
-To set up Whirr: 
+To Set Up Whirr (if you haven't already): 
 
 -Set the following environment variables: 
 
@@ -34,6 +33,7 @@ bin/whirr launch-cluster --config ~/hadoop-ec2.properties
 
 bin/whirr destroy-cluster --config ~/hadoop-ec2.properties
 
+---
 
 To Run:
 
@@ -42,7 +42,8 @@ To Run:
 -To place the file on the server, use
 bin/hadoop fs -put enron.txt enron.txt
 
-- Assuming Hadoop has been set up correctly, run this command to compile the java with the appropriate mkdir bigram_classes; javac -classpath ${HADOOP_HOME}/hadoop-core-${HADOOP_VERSION}.jar -d triangle_classes TriangleCount.java
+- Assuming Hadoop has been set up correctly, run this command to compile the java:
+mkdir triangle_classes; javac -classpath ${HADOOP_HOME}/hadoop-core-${HADOOP_VERSION}.jar -d triangle_classes TriangleCount.java
 
 You can/should replace ${HADOOP_HOME} and ${HADOOP_VERSION} with whatever your respective  env variables are.
 
@@ -50,9 +51,9 @@ You can/should replace ${HADOOP_HOME} and ${HADOOP_VERSION} with whatever your r
 
 Make sure to change ${HOME_DIRECTORY} to whatever directory you want the jar to be.
 
-- To run it in Hadoop, use this command: bin/hadoop jar ${HOME_DIRECTORY}/trianglecount.jar org.myorg.TriangleCount input tmp output
+- To run it in Hadoop, use this command: bin/hadoop jar ${HOME_DIRECTORY}/trianglecount.jar org.myorg.TriangleCount <input> <tmp> <output>
 
-Again, make sure ${HOME_DIRECTORY} is wherever the bigramcount.jar is. This also assumes that you have the appropriate input and output folders already set up in Hadoop. You can use bin/hadoop fs -mkdir ${FOLDERS} to do so if you haven't already, replacing ${FOLDERS} with the correct folder names. 
+Again, make sure ${HOME_DIRECTORY} is wherever the jar is. Replace <input> <tmp> and <output> with wherever you put the enron file, a tmp directory, and a desired output directory.
 
 Note that depending on your settings, you can probably run just 'hadoop' instead of 'bin/hadoop'.
 
