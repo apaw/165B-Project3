@@ -12,7 +12,8 @@ Files Included:
 - enron.txt: Our normalized enron email data. While you don't have to use this, the instructions below assume that it will.
 - TopTenNodes.txt: A list of the ten most frequently occuring nodes from our triangle, and the explanation of our procedure.
 - node_counts.txt: Just for your reference, this is the node count file we generated to determine the top ten nodes, sorted from decreasing -> increasing frequency.
-- Runtimes_Graph: graph of runtimes for 2-,4-,6- node clusters.
+- Runtimes_Graph: Graph of runtimes for 2-,4-,6- node clusters. Color-coded for your convenience. Blue = runtime of first job, Red = runtime of second job, Green = total runtime for both jobs.
+- Runtimes_data: For your ref, the data values we plugged into the graph.
 
 ---
 
